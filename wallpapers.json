@@ -4,8 +4,17 @@
      "NEWJEANS_LIMITED": "https://mberierd.sirv.com/ssk-resource/wallpaper/limited/LE_NWJ_WP.png",
      "NEWJEANS_TEXT": "`Limited` **NewJeans - Hype You Boy** Wallpaper",
 
-     "ENHYPEN_LIMITED": "https://mberierd.sirv.com/ssk-resource/wallpaper/basic/BASIC_ENHYPEN_WALLPAPER",
-     "ENHYPEN_TEXT": "`Basic` **ENHYPEN** Wallpaper"
+     "ENHYPEN_BASIC": "https://mberierd.sirv.com/ssk-resource/wallpaper/basic/BASIC_ENHYPEN_WALLPAPER",
+     "ENHYPEN_TEXT": "`Basic` **ENHYPEN** Wallpaper",
+      
+     "ENHYPEN_LIMITED": "https://mberierd.sirv.com/ssk-resource/wallpaper/limited/LE_ENHYPEN_WBIU",
+     "ENHYPEN_TEXT": "`Limited` **ENHYPEN - We Bump It Up** Wallpaper",
+      
+     "ENHYPEN_EVENT": "https://mberierd.sirv.com/ssk-resource/wallpaper/limited/LE_ENHYPEN_WBIU_WP%232",
+     "ENHYPEN_TEXT": "`Event` **ENHYPEN - JAKE, JUNGWON, SUNOO, SUNGHOON** Wallpaper",
+      
+     "ENHYPEN_EVENT": "https://mberierd.sirv.com/ssk-resource/wallpaper/limited/LE_ENHYPEN_WBIU_WP%231",
+     "ENHYPEN_TEXT": "`Event` **ENHYPEN - HEESUNG, JAY, NIKI** Wallpaper",
     
     ]
 }
