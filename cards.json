@@ -51,25 +51,60 @@
 "NWJ_DNL_S": [
   {
   "name": "<:ar_emblem:1086609613090193438> **NEWJEANS** Hype You Boy",
-  "image":"https://mberierd.sirv.com/ssk-resource/cards/nwjns_hyn/Card%20Open%20Template_Restored_20230329050320.png",
+  "image": "https://mberierd.sirv.com/ssk-resource/cards/nwjns_hyn/Card%20Open%20Template_Restored_20230329050320.png",
   "theme": "Hype You Boy",
   "inv": "<:ar_emblem:1086609613090193438> Hype You Boy"
     
 "NWJ_HRN_S": [
   {
   "name": "<:ar_emblem:1086609613090193438> **NEWJEANS** Hype You Boy",
-  "image":"https://mberierd.sirv.com/ssk-resource/cards/nwjns_hyn/Card%20Open%20Template_Restored_20230329050358.png",
+  "image": "https://mberierd.sirv.com/ssk-resource/cards/nwjns_hyn/Card%20Open%20Template_Restored_20230329050358.png",
   "theme": "Hype You Boy",
   "inv": "<:ar_emblem:1086609613090193438> Hype You Boy"
 
 "NWJ_HYN_S": [
   {
   "name": "<:ar_emblem:1086609613090193438> **NEWJEANS** Hype You Boy",
-  "image":"https://mberierd.sirv.com/ssk-resource/cards/nwjns_hyn/Card%20Open%20Template_Restored_20230329050117.png",
+  "image": "https://mberierd.sirv.com/ssk-resource/cards/nwjns_hyn/Card%20Open%20Template_Restored_20230329050117.png",
   "theme": "Hype You Boy",
   "inv": "<:ar_emblem:1086609613090193438> Hype You Boy"
 
+"NWJ_MNJ_A": [
+  {
+  "name": "<:ar_emblem:1086609613090193438> **NEWJEANS** Hype You Boy",
+  "image": "https://mberierd.sirv.com/ssk-resource/cards/nwjns_hyn/Card%20Open%20Template_Restored_20230329045717.png",
+  "theme": "Hype You Boy",
+  "inv": "<:ar_emblem:1086609613090193438> Hype You Boy"
 
+"NWJ_HNI_A": [
+  {
+  "name": "<:ar_emblem:1086609613090193438> **NEWJEANS** Hype You Boy",
+  "image": "https://mberierd.sirv.com/ssk-resource/cards/nwjns_hyn/Card%20Open%20Template_Restored_20230329045819.png",
+  "theme": "Hype You Boy",
+  "inv": "<:ar_emblem:1086609613090193438> Hype You Boy"
+
+"NWJ_DNL_A": [
+  {
+  "name": "<:ar_emblem:1086609613090193438> **NEWJEANS** Hype You Boy",
+  "image": "https://mberierd.sirv.com/ssk-resource/cards/nwjns_hyn/Card%20Open%20Template_Restored_20230329045910.png",
+  "theme": "Hype You Boy",
+  "inv": "<:ar_emblem:1086609613090193438> Hype You Boy"
+
+"NWJ_HRN_A": [
+  {
+  "name": "<:ar_emblem:1086609613090193438> **NEWJEANS** Hype You Boy",
+  "image": "https://mberierd.sirv.com/ssk-resource/cards/nwjns_hyn/Card%20Open%20Template_Restored_20230329045957.png",
+  "theme": "Hype You Boy",
+  "inv": "<:ar_emblem:1086609613090193438> Hype You Boy"
+
+"NWJ_HYN_A": [
+  {
+  "name": "<:ar_emblem:1086609613090193438> **NEWJEANS** Hype You Boy",
+  "image": "https://mberierd.sirv.com/ssk-resource/cards/nwjns_hyn/Card%20Open%20Template_Restored_20230329050044.png",
+  "theme": "Hype You Boy",
+  "inv": "<:ar_emblem:1086609613090193438> Hype You Boy"
+
+    
    }
    ]
  }
