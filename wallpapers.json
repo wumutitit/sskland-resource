@@ -12,10 +12,19 @@
       
      "ENHYPEN_EVENT": "https://mberierd.sirv.com/ssk-resource/wallpaper/event/EVENT_ENHYPEN_WBIU_BG%231",
      "ENHYPEN_TEXT": "`Event` **ENHYPEN - JAKE, JUNGWON, SUNOO, SUNGHOON** Wallpaper",
+     
+     "DOJAEJUNG_LIMITED": "https://mberierd.sirv.com/ssk-resource/wallpaper/limited/EVENT_DJJ_PERFUME_BG_DY.png",
+     "DOJAEJUNG_TEXT": "`Limited` **DOJAEJUNG - Perfume** Wallpaper",
       
-     "ENHYPEN_EVENT": "https://mberierd.sirv.com/ssk-resource/wallpaper/event/EVENT_ENHYPEN_WBIU_BG%232",
-     "ENHYPEN_TEXT": "`Event` **ENHYPEN - HEESUNG, JAY, NIKI** Wallpaper",
+     "DOJAEJUNG_EVENT": "https://mberierd.sirv.com/ssk-resource/wallpaper/event/EVENT_DJJ_PERFUME_BG_DY.png",
+     "DOJAEJUNG_TEXT": "`Event` **DOJAEJUNG - DOYOUNG** Wallpaper",
     
+     "DOJAEJUNG_EVENT": "https://mberierd.sirv.com/ssk-resource/wallpaper/event/EVENT_DJJ_PERFUME_BG_JH.png",
+     "DOJAEJUNG_TEXT": "`Event` **DOJAEJUNG - JAEHYUN** Wallpaper",
+    
+     "DOJAEJUNG_EVENT": "https://mberierd.sirv.com/ssk-resource/wallpaper/event/EVENT_DJJ_PERFUME_BG_JW.png",
+     "DOJAEJUNG_TEXT": "`Event` **DOJAEJUNG - JUNGWOO** Wallpaper",
+      
     ]
 }
        }
