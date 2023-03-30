@@ -246,6 +246,36 @@
   "theme": "Hype You Boy",
   "inv": "<:ac_emblem:1086608258464235540> Hype You Boy"
 
+"DJJ_DYG_R": [
+  {
+  "name": "<:ar_emblem:1086609613090193438> **DOJAEJUNG** DOYOUNG Perfume",
+  "image": "https://mberierd.sirv.com/ssk-resource/cards/djj_perfume/Card%20Open%20Template_20230330123407.png",
+  "theme": "Perfume",
+  "inv": "<:ar_emblem:1086609613090193438> Perfume"
+    
+}
+],
+
+"DJJ_JHY_R": [
+  {
+  "name": "<:ar_emblem:1086609613090193438> **DOJAEJUNG** JAEHYUN Perfume",
+  "image": "https://mberierd.sirv.com/ssk-resource/cards/djj_perfume/Card%20Open%20Template_20230330123515.png",
+  "theme": "Perfume",
+  "inv": "<:ar_emblem:1086609613090193438> Perfume"
+    
+}
+],
+
+"DJJ_JGW_R": [
+  {
+  "name": "<:ar_emblem:1086609613090193438> **DOJAEJUNG** JUNGWOO Perfume",
+  "image": "https://mberierd.sirv.com/ssk-resource/cards/djj_perfume/Card%20Open%20Template_20230330124025.png",
+  "theme": "Perfume",
+  "inv": "<:ar_emblem:1086609613090193438> Perfume"
+    
+}
+],
+
     
    }
    ]
