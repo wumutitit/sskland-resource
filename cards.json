@@ -276,7 +276,7 @@
 }
 ],
   
-"NWJ_DYG_S": [
+"DJJ_DYG_S": [
   {
   "name": "<:as_emblem:1086609529770344539> **DOJAEJUNG** DOYOUNG Perfume",
   "image": "https://mberierd.sirv.com/ssk-resource/cards/djj_perfume/Card%20Open%20Template_20230330124147.png",
@@ -286,7 +286,7 @@
 }
 ],
 
-"NWJ_JHY_S": [
+"DJJ_JHY_S": [
   {
   "name": "<:as_emblem:1086609529770344539> **DOJAEJUNG** JAEHYUN Perfume",
   "image": "https://mberierd.sirv.com/ssk-resource/cards/djj_perfume/Card%20Open%20Template_20230330124300.png",
@@ -296,7 +296,7 @@
 }
 ],
 
-"NWJ_JGW_S": [
+"DJJ_JGW_S": [
   {
   "name": "<:as_emblem:1086609529770344539> **DOJAEJUNG** JUNGWOO Perfume",
   "image": "https://mberierd.sirv.com/ssk-resource/cards/djj_perfume/Card%20Open%20Template_20230330124358.png",
@@ -306,7 +306,7 @@
 }
 ],
 
-"NWJ_DYG_A": [
+"DJJ_DYG_A": [
   {
   "name": "<:aa_emblem:1086608605471576114> **DOJAEJUNG** DOYOUNG Perfume",
   "image": "https://mberierd.sirv.com/ssk-resource/cards/djj_perfume/Card%20Open%20Template_20230330124526.png",
@@ -316,7 +316,7 @@
 }
 ],
 
-"NWJ_JHY_A": [
+"DJJ_JHY_A": [
   {
   "name": "<:aa_emblem:1086608605471576114> **DOJAEJUNG** JAEHYUN Perfume",
   "image": "https://mberierd.sirv.com/ssk-resource/cards/djj_perfume/Card%20Open%20Template_20230330124642.png",
@@ -326,14 +326,14 @@
 }
 ],
 
-"NWJ_JGW_A": [
+"DJJ_JGW_A": [
   {
   "name": "<:aa_emblem:1086608605471576114> **DOJAEJUNG** JUNGWOO Perfume",
   "image": "https://mberierd.sirv.com/ssk-resource/cards/djj_perfume/Card%20Open%20Template_20230330124812.png",
   "theme": "Perfume",
   "inv": "<:aa_emblem:1086608605471576114> Perfume"
 
-"NWJ_DYG_B": [
+"DJJ_DYG_B": [
   {
   "name": "<:ab_emblem:1086608394401620110> **DOJAEJUNG** DOYOUNG Perfume",
   "image": "https://mberierd.sirv.com/ssk-resource/cards/djj_perfume/Card%20Open%20Template_20230330125047.png",
@@ -343,7 +343,7 @@
 }
 ],
 
-"NWJ_JHY_B": [
+"DJJ_JHY_B": [
   {
   "name": "<:ab_emblem:1086608394401620110> **DOJAEJUNG** JAEHYUN Perfume",
   "image": "https://mberierd.sirv.com/ssk-resource/cards/djj_perfume/Card%20Open%20Template_20230330125054.png",
@@ -353,7 +353,7 @@
 }
 ],
 
-"NWJ_JGW_B": [
+"DJJ_JGW_B": [
   {
   "name": "<:ab_emblem:1086608394401620110> **DOJAEJUNG** JUNGWOO Perfume",
   "image": "https://mberierd.sirv.com/ssk-resource/cards/djj_perfume/Card%20Open%20Template_20230330125147.png",
@@ -363,7 +363,7 @@
 }
 ],
 
-"NWJ_DYG_C": [
+"DJJ_DYG_C": [
   {
   "name": "<:ac_emblem:1086608258464235540> **DOJAEJUNG** DOYOUNG Perfume",
   "image": "https://mberierd.sirv.com/ssk-resource/cards/djj_perfume/Card%20Open%20Template_20230330125320.png",
@@ -373,7 +373,7 @@
 }
 ],
 
-"NWJ_JHY_C": [
+"DJJ_JHY_C": [
   {
   "name": "<:ac_emblem:1086608258464235540> **DOJAEJUNG** JAEHYUN Perfume",
   "image": "https://mberierd.sirv.com/ssk-resource/cards/djj_perfume/Card%20Open%20Template_20230330125411.png",
@@ -383,18 +383,14 @@
 }
 ],
   
-"NWJ_JGW_C": [
+"DJJ_JGW_C": [
   {
   "name": "<:ac_emblem:1086608258464235540> **DOJAEJUNG** JUNGWOO Perfume",
   "image": "https://mberierd.sirv.com/ssk-resource/cards/djj_perfume/Card%20Open%20Template_20230330125516.png",
   "theme": "Perfume",
   "inv": "<:ac_emblem:1086608258464235540> Perfume"
     
-}
-]
-
-
-     }
-    ]
- 
+    
+   }
+   ]
 }
