@@ -47,7 +47,7 @@
             "inv": "<:ac_emblem:1086608258464235540> Perfume"
         }
     ],
-    "DJJ_JAEHYUN_B": [
+    "DJJ_JHY_B": [
         {
             "name": "<:ab_emblem:1086608394401620110> **DOJAEJUNG JAEHYUN** PERFUME",
             "image": "https://mberierd.sirv.com/ssk-resource/cards/djj_perfume/Card%20Open%20Template_20230330125054.png?format=png",
@@ -79,5 +79,44 @@
             "inv": "<:R_LOGO:1089020300332630096> Perfume"
         }
     ],
-
-
+    "DJJ_JGW_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **DOJAEJUNG JUNGWOO** PERFUME",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/djj_perfume/Card%20Open%20Template_20230330125516.png?format=png",
+            "theme": "Perfume",
+            "inv": "<:ac_emblem:1086608258464235540> Perfume"
+        }
+    ],
+    "DJJ_JGW_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **DOJAEJUNG JUNGWOO** PERFUME",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/djj_perfume/Card%20Open%20Template_20230330125147.png?format=png",
+            "theme": "Perfume",
+            "inv": "<:B_LOGO:1089020310508015626> Perfume"
+              }
+    ],
+    "DJJ_JGW_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **DOJAEJUNG JUNGWOO** PERFUME",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/djj_perfume/Card%20Open%20Template_20230330124812.png?format=png",
+            "theme": "Perfume",
+            "inv": "<:A_LOGO:1089020306556989592> Perfume"
+        }
+    ],
+    "DJJ_JGW_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **DOJAEJUNG JUNGWOO** PERFUME",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/djj_perfume/Card%20Open%20Template_20230330124358.png?format=png",
+            "theme": "Perfume",
+            "inv": "<:S_LOGO:1089020304254316624> Perfume"
+        }
+    ],
+    "DJJ_JGW_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **DOJAEJUNG JUNGWOO** PERFUME",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/djj_perfume/Card%20Open%20Template_20230330124025.png?format=png",
+            "theme": "Perfume",
+            "inv": "<:R_LOGO:1089020300332630096> Perfume"
+        }
+    ]
+}
