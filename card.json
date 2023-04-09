@@ -239,6 +239,30 @@
             "inv": "<:emblem_r:1094387478313570314> Say My Name"
               }
      ],
+     "BP_SN_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **BOYS PLANET SEUNGEON** Say My Name",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/boysplanet/smn_bp/Card%20Open%20Template_Restored_20230409175715.png?format=png",
+            "theme": "Say My Name",
+            "inv": "<:ac_emblem:1086608258464235540> Say My Name"
+        }
+     ],
+     "BP_SN_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **BOYS PLANET SEUNGEON** Say My Name",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/boysplanet/smn_bp/Card%20Open%20Template_Restored_20230409175422.png?format=png",
+            "theme": "Say My Name",
+            "inv": "<:B_LOGO:1089020310508015626> Say My Name"
+              }
+     ],
+     "BP_SG_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **BOYS PLANET MATTHEW** Say My Name",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/boysplanet/smn_bp/Card%20Open%20Template_Restored_20230409175012.png?format=png",
+            "theme": "Say My Name",
+            "inv": "<:emblem_a:1094386551212998778> Say My Name"
+              }
+     ],
 
 
 
