@@ -279,6 +279,43 @@
             "inv": "<:emblem_r:1094387478313570314> Say My Name"
               }
      ],
-
-
-
+     "BP_YJ_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **BOYS PLANET YUJIN** Say My Name",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/boysplanet/smn_bp/Card%20Open%20Template_Restored_20230409180050.png?format=png",
+            "theme": "Say My Name",
+            "inv": "<:ac_emblem:1086608258464235540> Say My Name"
+        }
+     ],
+     "BP_YJ_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **BOYS PLANET YUJIN** Say My Name",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/boysplanet/smn_bp/Card%20Open%20Template_Restored_20230409175314.png?format=png",
+            "theme": "Say My Name",
+            "inv": "<:B_LOGO:1089020310508015626> Say My Name"
+              }
+     ],
+     "BP_YJ_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **BOYS PLANET YUJIN** Say My Name",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/boysplanet/smn_bp/Card%20Open%20Template_Restored_20230409174917.png?format=png",
+            "theme": "Say My Name",
+            "inv": "<:emblem_a:1094386551212998778> Say My Name"
+              }
+     ],
+     "BP_YJ_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **BOYS PLANET YUJIN** Say My Name",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/boysplanet/smn_bp/Card%20Open%20Template_Restored_20230409174537.png?format=png",
+            "theme": "Say My Name",
+            "inv": "<:emblem_s:1094387291784495134> Say My Name"
+              }
+     ],
+     "BP_YJ_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **BOYS PLANET YUJIN** Say My Name",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/boysplanet/smn_bp/Card%20Open%20Template_Restored_20230409173342.png?format=png",
+            "theme": "Say My Name",
+            "inv": "<:emblem_r:1094387478313570314> Say My Name"
+              }
+     ]
