@@ -358,5 +358,45 @@
             "theme": "Over Me",
             "inv": "<:emblem_r:1094387478313570314> Over Me"
         }
+     ],
+     "BP_ZH_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **BOYS PLANET ZHANGHAO** Over Me",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/boysplanet/ovm_bp/Card%20Open%20Template_Restored_20230411131132.png?format=png",
+            "theme": "Over Me",
+            "inv": "<:ac_emblem:1086608258464235540> Over Me"
+        }
+     ],
+     "BP_ZH_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **BOYS PLANET ZHANGHAO** Over Me",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/boysplanet/ovm_bp/Card%20Open%20Template_Restored_20230411131218.png?format=png",
+            "theme": "Over Me",
+            "inv": "<:ab_emblem:1086608394401620110> Over Me"
+        }
+     ],
+     "BP_ZH_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **BOYS PLANET ZHANGHAO** Over Me",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/boysplanet/ovm_bp/Card%20Open%20Template_Restored_20230411131249.png?format=png",
+            "theme": "Over Me",
+            "inv": "<:emblem_a:1094386551212998778> Over Me"
+        }
+     ],
+     "BP_ZH_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **BOYS PLANET ZHANGHAO** Over Me",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/boysplanet/ovm_bp/Card%20Open%20Template_Restored_20230411131331.png?format=png",
+            "theme": "Over Me",
+            "inv": "<:emblem_s:1094387291784495134> Over Me"
+        }
+     ],
+     "BP_ZH_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **BOYS PLANET ZHANGHAO** Over Me",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/boysplanet/ovm_bp/Card%20Open%20Template_Restored_20230411131416.png?format=png",
+            "theme": "Over Me",
+            "inv": "<:emblem_r:1094387478313570314> Over Me"
+        }
      ]
 }
