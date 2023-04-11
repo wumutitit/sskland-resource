@@ -718,5 +718,45 @@
             "theme": "Tricky House",
             "inv": "<:emblem_r:1094387478313570314> Tricky House"
         }
+     ],
+     "XK_JH_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **XIKERS JUNGHOON** Tricky House",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/xikers/Card%20Open%20Template_Restored_20230411162406.png?format=png",
+            "theme": "Tricky House",
+            "inv": "<:ac_emblem:1086608258464235540> Tricky House"
+        }
+     ],
+     "XK_JH_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **XIKERS JUNGHOON** Tricky House",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/xikers/Card%20Open%20Template_Restored_20230411162540.png?format=png",
+            "theme": "Tricky House",
+            "inv": "<:ab_emblem:1086608394401620110> Tricky House"
+        }
+     ],
+     "XK_JH_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **XIKERS JUNGHOON** Tricky House",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/xikers/Card%20Open%20Template_Restored_20230411162638.png?format=png",
+            "theme": "Tricky House",
+            "inv": "<:emblem_a:1094386551212998778> Tricky House"
+        }
+     ],
+     "XK_JH_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **XIKERS JUNGHOON** Tricky House",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/xikers/Card%20Open%20Template_Restored_20230411162712.png?format=png",
+            "theme": "Tricky House",
+            "inv": "<:emblem_s:1094387291784495134> Tricky House"
+        }
+     ],
+     "XK_JH_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **XIKERS JUNGHOON** Tricky House",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/xikers/Card%20Open%20Template_Restored_20230411162744.png?format=png",
+            "theme": "Tricky House",
+            "inv": "<:emblem_r:1094387478313570314> Tricky House"
+        }
      ]
-}
+}    
