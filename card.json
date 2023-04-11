@@ -518,5 +518,21 @@
             "theme": "Over Me",
             "inv": "<:emblem_r:1094387478313570314> Over Me"
         }
+     ],
+     "XK_MJ_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **XIKERS MINJAE** Over Me",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/xikers/Card%20Open%20Template_Restored_20230411164308.png?format=png",
+            "theme": "Tricky House",
+            "inv": "<:ac_emblem:1086608258464235540> Tricky House"
+        }
+     ],
+     "XK_MJ_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **XIKERS MINJAE** Over Me",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/xikers/Card%20Open%20Template_Restored_20230411164403.png?format=png",
+            "theme": "Tricky House",
+            "inv": "<:ab_emblem:1086608394401620110> Tricky House"
+        }
      ]
 }
