@@ -598,5 +598,45 @@
             "theme": "Tricky House",
             "inv": "<:emblem_r:1094387478313570314> Tricky House"
         }
+     ],
+     "XK_SM_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **XIKERS SUMIN** Tricky House",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/xikers/Card%20Open%20Template_Restored_20230411163551.png?format=png",
+            "theme": "Tricky House",
+            "inv": "<:ac_emblem:1086608258464235540> Tricky House"
+        }
+     ],
+     "XK_SM_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **XIKERS SUMIN** Tricky House",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/xikers/Card%20Open%20Template_Restored_20230411165408.png?format=png",
+            "theme": "Tricky House",
+            "inv": "<:ab_emblem:1086608394401620110> Tricky House"
+        }
+     ],
+     "XK_SM_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **XIKERS SUMIN** Tricky House",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/xikers/Card%20Open%20Template_Restored_20230411163708.png?format=png",
+            "theme": "Tricky House",
+            "inv": "<:emblem_a:1094386551212998778> Tricky House"
+        }
+     ],
+     "XK_SM_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **XIKERS SUMIN** Tricky House",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/xikers/Card%20Open%20Template_Restored_20230411163628.png?format=png",
+            "theme": "Tricky House",
+            "inv": "<:emblem_s:1094387291784495134> Tricky House"
+        }
+     ],
+     "XK_SM_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **XIKERS SUMIN** Tricky House",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/xikers/Card%20Open%20Template_Restored_20230411163754.png?format=png",
+            "theme": "Tricky House",
+            "inv": "<:emblem_r:1094387478313570314> Tricky House"
+        }
      ]
 }
