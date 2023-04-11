@@ -551,10 +551,50 @@
             "inv": "<:emblem_s:1094387291784495134> Tricky House"
         }
      ],
-     "XK_MJ_A": [
+     "XK_MJ_R": [
         {
             "name": "<:emblem_r:1094387478313570314> **XIKERS MINJAE** Tricky House",
             "image": "https://mberierd.sirv.com/ssk-resource/cards/xikers/Card%20Open%20Template_Restored_20230411164555.png?format=png",
+            "theme": "Tricky House",
+            "inv": "<:emblem_r:1094387478313570314> Tricky House"
+        }
+     ],
+     "XK_JM_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **XIKERS JUNMIN** Tricky House",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/xikers/Card%20Open%20Template_Restored_20230411163853.png?format=png",
+            "theme": "Tricky House",
+            "inv": "<:ac_emblem:1086608258464235540> Tricky House"
+        }
+     ],
+     "XK_JM_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **XIKERS JUNMIN** Tricky House",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/xikers/Card%20Open%20Template_Restored_20230411163952.png?format=png",
+            "theme": "Tricky House",
+            "inv": "<:ab_emblem:1086608394401620110> Tricky House"
+        }
+     ],
+     "XK_JM_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **XIKERS JUNMIN** Tricky House",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/xikers/Card%20Open%20Template_Restored_20230411164029.png?format=png",
+            "theme": "Tricky House",
+            "inv": "<:emblem_a:1094386551212998778> Tricky House"
+        }
+     ],
+     "XK_JM_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **XIKERS JUNMIN** Tricky House",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/xikers/Card%20Open%20Template_Restored_20230411164116.png?format=png",
+            "theme": "Tricky House",
+            "inv": "<:emblem_s:1094387291784495134> Tricky House"
+        }
+     ],
+     "XK_JM_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **XIKERS JUNMIN** Tricky House",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/xikers/Card%20Open%20Template_Restored_20230411164222.png?format=png",
             "theme": "Tricky House",
             "inv": "<:emblem_r:1094387478313570314> Tricky House"
         }
