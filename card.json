@@ -438,6 +438,45 @@
             "theme": "Over Me",
             "inv": "<:emblem_r:1094387478313570314> Over Me"
         }
+     ],
+     "BP_KJ_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **BOYS PLANET KUANJUI** Over Me",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/boysplanet/ovm_bp/Card%20Open%20Template_Restored_20230411132235.png?format=png",
+            "theme": "Over Me",
+            "inv": "<:ac_emblem:1086608258464235540> Over Me"
+        }
+     ],
+     "BP_KJ_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **BOYS PLANET KUANJUI** Over Me",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/boysplanet/ovm_bp/Card%20Open%20Template_Restored_20230411132304.png?format=png",
+            "theme": "Over Me",
+            "inv": "<:ab_emblem:1086608394401620110> Over Me"
+        }
+     ],
+     "BP_KJ_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **BOYS PLANET KUANJUI** Over Me",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/boysplanet/ovm_bp/Card%20Open%20Template_Restored_20230411132355.png?format=png",
+            "theme": "Over Me",
+            "inv": "<:emblem_a:1094386551212998778> Over Me"
+        }
+     ],
+     "BP_KJ_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **BOYS PLANET KUANJUI** Over Me",
+            "image": "?format=png",
+            "theme": "Over Me",
+            "inv": "<:emblem_s:1094387291784495134> Over Me"
+        }
+     ],
+     "BP_KJ_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **BOYS PLANET KUANJUI** Over Me",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/boysplanet/ovm_bp/Card%20Open%20Template_Restored_20230411132431.png?format=png",
+            "theme": "Over Me",
+            "inv": "<:emblem_r:1094387478313570314> Over Me"
+        }
      ]
 }
-
