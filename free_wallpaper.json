@@ -2,13 +2,37 @@
   "wallpapers": [
     {
       "NEWJEANS_FREE": "https://mberierd.sirv.com/ssk-resource/wallpaper/free/FREE_NWJ_WP.png?format=png",
-      "NEWJEANS_TEXT": "`Free` **NEWJEANS** Wallpaper",
+      "NEWJEANS_TEXT": "`Free` **NewJeans** Wallpaper",
       
       "ENHYPEN_FREE": "https://mberierd.sirv.com/ssk-resource/wallpaper/free/FREE_ENHYPEN_WBIU?format=png",
       "ENHYPEN_TEXT": "`Free` **ENHYPEN** Wallpaper",
       
       "DOJAEJUNG_FREE": "https://mberierd.sirv.com/ssk-resource/wallpaper/free/FREE_DJJ_PERFUME_BG.png?format=png",
-      "DOJAEJUNG_TEXT": "`Free` **DOJAEJUNG** Wallpaper"
+      "DOJAEJUNG_TEXT": "`Free` **DOJAEJUNG** Wallpaper",
+
+      "BLACKPINK_FREE": "https://mberierd.sirv.com/ssk-resource/wallpaper/free/FREE_BLCKPNK_WP.png?format=png",
+      "BLACKPINK_TEXT": "`Free` **BLACKPINK** Wallpaper",
+
+      "CIX_FREE": "https://mberierd.sirv.com/ssk-resource/wallpaper/free/FREE_CIX_WP.png?format=png",
+      "CIX_TEXT": "`Free` **CIX** Wallpaper",
+      
+      "LSF_FREE": "https://mberierd.sirv.com/ssk-resource/wallpaper/free/FREE_LSF_WP.png?format=png",
+      "LSF_TEXT": "`Free` **LE SSERAFIM** Wallpaper",
+
+      "RVV_FREE": "https://mberierd.sirv.com/ssk-resource/wallpaper/free/FREE_RVV_WP.png?format=png",
+      "RVV_TEXT": "`Free` **Red Velvet** Wallpaper",
+      
+      "SAYYES_FREE": "https://mberierd.sirv.com/ssk-resource/wallpaper/free/FREE_SAYYES!_WP.png?format=png",
+      "SAYYES_TEXT": "`Free` **Say Yes!** Wallpaper",
+      
+      "TNX_FREE": "https://mberierd.sirv.com/ssk-resource/wallpaper/free/FREE_TNX_WP.png?format=png",
+      "TNX_TEXT": "`Free` **TNX** Wallpaper",
+      
+      "TRSR_FREE": "https://mberierd.sirv.com/ssk-resource/wallpaper/free/FREE_TRSR_WP.png?format=png",
+      "TRSR_TEXT": "`Free` **TREASURE** Wallpaper",  
+      
+      "XIKERS_FREE": "https://mberierd.sirv.com/ssk-resource/wallpaper/free/FREE_XIKERS_WP.png?format=png",
+      "XIKERS_TEXT": "`Free` **XIKERS** Wallpaper"
       
       }
       ]
