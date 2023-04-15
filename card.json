@@ -1078,5 +1078,45 @@
             "theme": "Dusty Amber",
             "inv": "<:emblem_s:1094387291784495134> Dusty Amber"
         }
+     ],
+     "LS_SK_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **LE SSERAFIM SAKURA** Dusty Amber",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/lsf_dustyamber/Card%20Open%20Template_20230415074030.png?format=png",
+            "theme": "Dusty Amber",
+            "inv": "<:emblem_r:1094387478313570314> Dusty Amber"
+        }
+     ],
+     "LS_CW_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **LE SSERAFIM CHAEWON** Dusty Amber",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/lsf_dustyamber/Card%20Open%20Template_20230415074422.png?format=png",
+            "theme": "Dusty Amber",
+            "inv": "<:emblem_r:1094387478313570314> Dusty Amber"
+        }
+     ],
+     "LS_YJ_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **LE SSERAFIM YUNJIN** Dusty Amber",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/lsf_dustyamber/Card%20Open%20Template_20230415080130.png?format=png",
+            "theme": "Dusty Amber",
+            "inv": "<:emblem_r:1094387478313570314> Dusty Amber"
+        }
+     ],
+     "LS_KZ_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **LE SSERAFIM KAZUHA** Dusty Amber",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/lsf_dustyamber/Card%20Open%20Template_20230415075800.png?format=png",
+            "theme": "Dusty Amber",
+            "inv": "<:emblem_r:1094387478313570314> Dusty Amber"
+        }
+     ],
+     "LS_EC_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **LE SSERAFIM EUNCHAE** Dusty Amber",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/lsf_dustyamber/Card%20Open%20Template_20230415080533.png?format=png",
+            "theme": "Dusty Amber",
+            "inv": "<:emblem_r:1094387478313570314> Dusty Amber"
+        }
      ]
 }
