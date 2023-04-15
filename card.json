@@ -1262,5 +1262,53 @@
             "theme": "On My Way",
             "inv": "<:emblem_a:1094386551212998778> On My Way"
         }
+     ],
+     "IV_AYJ_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **IVE ANYUJIN** On My Way",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/ive_omw/Card%20Open%20Template_20230415084315.png?format=png",
+            "theme": "On My Way",
+            "inv": "<:emblem_s:1094387291784495134> On My Way"
+        }
+     ],
+     "IV_GEU_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **IVE GAEUL** On My Way",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/ive_omw/Card%20Open%20Template_20230415084151.png?format=png",
+            "theme": "On My Way",
+            "inv": "<:emblem_s:1094387291784495134> On My Way"
+        }
+     ],
+     "IV_REI_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **IVE REI** On My Way",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/ive_omw/Card%20Open%20Template_20230415084355.png?format=png",
+            "theme": "On My Way",
+            "inv": "<:emblem_s:1094387291784495134> On My Way"
+        }
+     ],
+     "IV_LIZ_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **IVE LIZ** On My Way",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/ive_omw/Card%20Open%20Template_20230415083932.png?format=png",
+            "theme": "On My Way",
+            "inv": "<:emblem_s:1094387291784495134> On My Way"
+        }
+     ],
+     "IV_WNY_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **IVE JANGWONYOUNG** On My Way",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/ive_omw/Card%20Open%20Template_20230415084109.png?format=png",
+            "theme": "On My Way",
+            "inv": "<:emblem_s:1094387291784495134> On My Way"
+        }
+     ],
+     "IV_LSO_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **IVE LEESEO** On My Way",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/ive_omw/Card%20Open%20Template_20230415084020.png?format=png",
+            "theme": "On My Way",
+            "inv": "<:emblem_s:1094387291784495134> On My Way"
+        }
      ]
 }
