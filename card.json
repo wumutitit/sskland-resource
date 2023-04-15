@@ -917,6 +917,45 @@
             "image": "https://mberierd.sirv.com/ssk-resource/cards/xikers/Card%20Open%20Template_Restored_20230411161251.png?format=png",
             "theme": "Tricky House",
             "inv": "<:emblem_r:1094387478313570314> Tricky House"
+     ],
+     "LS_SK_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **LE SSERAFIM SAKURA** Dusty Amber",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/lsf_dustyamber/Card%20Open%20Template_20230415074459.png?format=png",
+            "theme": "Dusty Amber",
+            "inv": "<:ac_emblem:1086608258464235540> Dusty Amber"
+        }
+     ],
+     "LS_CW_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **LE SSERAFIM SAKURA** Dusty Amber",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/lsf_dustyamber/Card%20Open%20Template_20230415074113.png?format=png",
+            "theme": "Dusty Amber",
+            "inv": "<:ab_emblem:1086608394401620110> Dusty Amber"
+        }
+     ],
+     "LS_YJ_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **LE SSERAFIM YUNJIN** Dusty Amber",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/lsf_dustyamber/Card%20Open%20Template_20230415075837.png?format=png",
+            "theme": "Dusty Amber",
+            "inv": "<:ab_emblem:1086608394401620110> Dusty Amber"
+        }
+     ],
+     "LS_SK_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **LE SSERAFIM SAKURA** Dusty Amber",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/lsf_dustyamber/Card%20Open%20Template_20230415080620.png?format=png",
+            "theme": "Dusty Amber",
+            "inv": "<:ab_emblem:1086608394401620110> Dusty Amber"
+        }
+     ],
+     "LS_EC_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **LE SSERAFIM EUNCHAE** Dusty Amber",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/lsf_dustyamber/Card%20Open%20Template_20230415080216.png?format=png",
+            "theme": "Dusty Amber",
+            "inv": "<:ab_emblem:1086608394401620110> Dusty Amber"
         }
      ]
 }
