@@ -943,9 +943,9 @@
             "inv": "<:ab_emblem:1086608394401620110> Dusty Amber"
         }
      ],
-     "LS_SK_C": [
+     "LS_KZ_C": [
         {
-            "name": "<:ac_emblem:1086608258464235540> **LE SSERAFIM SAKURA** Dusty Amber",
+            "name": "<:ac_emblem:1086608258464235540> **LE SSERAFIM KAZUHA** Dusty Amber",
             "image": "https://mberierd.sirv.com/ssk-resource/cards/lsf_dustyamber/Card%20Open%20Template_20230415080620.png?format=png",
             "theme": "Dusty Amber",
             "inv": "<:ab_emblem:1086608394401620110> Dusty Amber"
@@ -958,5 +958,45 @@
             "theme": "Dusty Amber",
             "inv": "<:ab_emblem:1086608394401620110> Dusty Amber"
         }
-     ]
+     ],
+     "LS_SK_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **LE SSERAFIM SAKURA** Dusty Amber",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/lsf_dustyamber/Card%20Open%20Template_20230415075536.png?format=png",
+            "theme": "Dusty Amber",
+            "inv": "<:ab_emblem:1086608394401620110> Dusty Amber"
+        }
+     ],
+     "LS_CW_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **LE SSERAFIM CHAEWON** Dusty Amber",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/lsf_dustyamber/Card%20Open%20Template_20230415074159.png?format=png",
+            "theme": "Dusty Amber",
+            "inv": "<:ab_emblem:1086608394401620110> Dusty Amber"
+        }
+     ],
+     "LS_YJ_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **LE SSERAFIM YUNJIN** Dusty Amber",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/lsf_dustyamber/Card%20Open%20Template_20230415075930.png?format=png",
+            "theme": "Dusty Amber",
+            "inv": "<:ab_emblem:1086608394401620110> Dusty Amber"
+        }
+     ],
+     "LS_KZ_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **LE SSERAFIM KAZUHA** Dusty Amber",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/lsf_dustyamber/Card%20Open%20Template_20230415080710.png?format=png",
+            "theme": "Dusty Amber",
+            "inv": "<:ab_emblem:1086608394401620110> Dusty Amber"
+        }
+     ],
+     "LS_EC_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **LE SSERAFIM EUNCHAE** Dusty Amber",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/lsf_dustyamber/Card%20Open%20Template_20230415080300.png?format=png",
+            "theme": "Dusty Amber",
+            "inv": "<:ab_emblem:1086608394401620110> Dusty Amber"
+        }
+     ],
 }
