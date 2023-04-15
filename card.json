@@ -1121,7 +1121,7 @@
      ],
      "IV_AYJ_C": [
         {
-            "name": "<:ac_emblem:1086608258464235540> **LE SSERAFIM ANYUJIN** On My Way",
+            "name": "<:ac_emblem:1086608258464235540> **IVE ANYUJIN** On My Way",
             "image": "https://mberierd.sirv.com/ssk-resource/cards/ive_omw/Card%20Open%20Template_20230415083520.png?format=png",
             "theme": "On My Way",
             "inv": "<:ab_emblem:1086608394401620110> On My Way"
@@ -1129,7 +1129,7 @@
      ],
      "IV_GEU_C": [
         {
-            "name": "<:ac_emblem:1086608258464235540> **LE SSERAFIM GAEUL** On My Way",
+            "name": "<:ac_emblem:1086608258464235540> **IVE GAEUL** On My Way",
             "image": "https://mberierd.sirv.com/ssk-resource/cards/ive_omw/Card%20Open%20Template_20230415081629.png?format=png",
             "theme": "On My Way",
             "inv": "<:ab_emblem:1086608394401620110> On My Way"
@@ -1137,7 +1137,7 @@
      ],
      "IV_REI_C": [
         {
-            "name": "<:ac_emblem:1086608258464235540> **LE SSERAFIM GAEUL** On My Way",
+            "name": "<:ac_emblem:1086608258464235540> **IVE GAEUL** On My Way",
             "image": "https://mberierd.sirv.com/ssk-resource/cards/ive_omw/Card%20Open%20Template_20230415082114.png?format=png",
             "theme": "On My Way",
             "inv": "<:ab_emblem:1086608394401620110> On My Way"
@@ -1145,7 +1145,7 @@
      ],
      "IV_LIZ_C": [
         {
-            "name": "<:ac_emblem:1086608258464235540> **LE SSERAFIM LIZ** On My Way",
+            "name": "<:ac_emblem:1086608258464235540> **IVE LIZ** On My Way",
             "image": "https://mberierd.sirv.com/ssk-resource/cards/ive_omw/Card%20Open%20Template_20230415083107.png?format=png",
             "theme": "On My Way",
             "inv": "<:ab_emblem:1086608394401620110> On My Way"
@@ -1153,7 +1153,7 @@
      ],
      "IV_WNY_C": [
         {
-            "name": "<:ac_emblem:1086608258464235540> **LE SSERAFIM JANGWONYOUNG** On My Way",
+            "name": "<:ac_emblem:1086608258464235540> **IVE JANGWONYOUNG** On My Way",
             "image": "https://mberierd.sirv.com/ssk-resource/cards/ive_omw/Card%20Open%20Template_20230415081444.png?format=png",
             "theme": "On My Way",
             "inv": "<:ab_emblem:1086608394401620110> On My Way"
@@ -1161,8 +1161,56 @@
      ],
      "IV_LSO_C": [
         {
-            "name": "<:ac_emblem:1086608258464235540> **LE SSERAFIM LEESEO** On My Way",
+            "name": "<:ac_emblem:1086608258464235540> **IVE LEESEO** On My Way",
             "image": "https://mberierd.sirv.com/ssk-resource/cards/ive_omw/Card%20Open%20Template_20230415083213.png?format=png",
+            "theme": "On My Way",
+            "inv": "<:ab_emblem:1086608394401620110> On My Way"
+        }
+     ],
+     "LS_AYJ_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **IVE ANYUJIN** On My Way",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/ive_omw/Card%20Open%20Template_20230415081738.png?format=png",
+            "theme": "On My Way",
+            "inv": "<:ab_emblem:1086608394401620110> On My Way"
+        }
+     ],
+     "LS_GEU_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **IVE GAEUL** On My Way",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/ive_omw/Card%20Open%20Template_20230415080953.png?format=png",
+            "theme": "On My Way",
+            "inv": "<:ab_emblem:1086608394401620110> On My Way"
+        }
+     ],
+     "LS_REI_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **IVE REI** On My Way",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/ive_omw/Card%20Open%20Template_20230415081846.png?format=png",
+            "theme": "On My Way",
+            "inv": "<:ab_emblem:1086608394401620110> On My Way"
+        }
+     ],
+     "LS_LIZ_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **IVE LIZ** On My Way",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/ive_omw/Card%20Open%20Template_20230415081846.png?format=png",
+            "theme": "On My Way",
+            "inv": "<:ab_emblem:1086608394401620110> On My Way"
+        }
+     ],
+     "LS_WNY_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **IVE JANGWONYOUNG** On My Way",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/ive_omw/Card%20Open%20Template_20230415080914.png?format=png",
+            "theme": "On My Way",
+            "inv": "<:ab_emblem:1086608394401620110> On My Way"
+        }
+     ],
+     "LS_LSO_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **IVE LEESEO** On My Way",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/ive_omw/Card%20Open%20Template_20230415082026.png?format=png",
             "theme": "On My Way",
             "inv": "<:ab_emblem:1086608394401620110> On My Way"
         }
