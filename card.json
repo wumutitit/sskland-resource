@@ -1118,5 +1118,53 @@
             "theme": "Dusty Amber",
             "inv": "<:emblem_r:1094387478313570314> Dusty Amber"
         }
-     ]
+     ],
+     "IV_AYJ_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **LE SSERAFIM ANYUJIN** On My Way",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/ive_omw/Card%20Open%20Template_20230415083520.png?format=png",
+            "theme": "On My Way",
+            "inv": "<:ab_emblem:1086608394401620110> On My Way"
+        }
+     ],
+     "IV_GEU_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **LE SSERAFIM GAEUL** On My Way",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/ive_omw/Card%20Open%20Template_20230415081629.png?format=png",
+            "theme": "On My Way",
+            "inv": "<:ab_emblem:1086608394401620110> On My Way"
+        }
+     ],
+     "IV_REI_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **LE SSERAFIM GAEUL** On My Way",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/ive_omw/Card%20Open%20Template_20230415082114.png?format=png",
+            "theme": "On My Way",
+            "inv": "<:ab_emblem:1086608394401620110> On My Way"
+        }
+     ],
+     "IV_LIZ_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **LE SSERAFIM LIZ** On My Way",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/ive_omw/Card%20Open%20Template_20230415083107.png?format=png",
+            "theme": "On My Way",
+            "inv": "<:ab_emblem:1086608394401620110> On My Way"
+        }
+     ],
+     "IV_WNY_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **LE SSERAFIM JANGWONYOUNG** On My Way",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/ive_omw/Card%20Open%20Template_20230415081444.png?format=png",
+            "theme": "On My Way",
+            "inv": "<:ab_emblem:1086608394401620110> On My Way"
+        }
+     ],
+     "IV_LSO_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **LE SSERAFIM LEESEO** On My Way",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/ive_omw/Card%20Open%20Template_20230415083213.png?format=png",
+            "theme": "On My Way",
+            "inv": "<:ab_emblem:1086608394401620110> On My Way"
+        }
+     ],
 }
