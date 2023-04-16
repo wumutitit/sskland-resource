@@ -1,13 +1,13 @@
 {
     "set": [
         {
-            "KJWP_LIMITED": "https://mberierd.sirv.com/ssk-resource/pfp/limited/LIMITED_KJW_PFP.png?format=png",
+            "KJWP_LIMITED": "https://mberierd.sirv.com/ssk-resource/pfp/limited/boysplanet/LIMITED_KJW_PFP.png?format=png",
             "KJWP_LIMITED_TEXT": "`Limited` BOYS PLANET KIM JIWOONG Profile Picture",
-"SHBP_LIMITED": "https://mberierd.sirv.com/ssk-resource/pfp/limited/LIMITED_SHB_PFP.png?format=png",
+"SHBP_LIMITED": "https://mberierd.sirv.com/ssk-resource/pfp/limited/boysplanet/LIMITED_SHB_PFP.png?format=png",
             "SHB_LIMITED_TEXT": "`Event` BOYS PLANET SUNG HANBIN Picture",
-"POLAHBP_LIMITED": "https://mberierd.sirv.com/ssk-resource/pfp/limited/LIMITED_SHB1_PFP.png?format=png",
+"POLAHBP_LIMITED": "https://mberierd.sirv.com/ssk-resource/pfp/limited/boysplanet/LIMITED_SHB1_PFP.png?format=png",
             "POLAHBP_LIMITED_TEXT": "`Polar` BOYS PLANET SUNG HANBIN Picture",
-"SMTP_LIMITED": "https://mberierd.sirv.com/ssk-resource/pfp/limited/LIMITED_SMT_PFP.png?format=png",
+"SMTP_LIMITED": "https://mberierd.sirv.com/ssk-resource/pfp/limited/boysplanet/LIMITED_SMT_PFP.png?format=png",
             "SMTP_EV_LIMITED": "`Event` BOYS PLANET SEOK MATTHEW Profile Picture",
             "KJW_EVENT": "https://mberierd.sirv.com/ssk-resource/wallpaper/event/EVENT_KJW_WP.png?format=png",
             "KJW_TEXT": "`Event` **KIM JIWOONG** Wallpaper",
