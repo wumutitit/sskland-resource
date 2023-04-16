@@ -1,0 +1,20 @@
+{
+    "set": [
+        {
+            "KJW_EV": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/profile/p_omg_hyein.png?format=png",
+            "KJW_EV_TEXT": "`Limited` OMG HYEIN Profile Picture",
+"SHB_EV": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/profile/p_omg_haerin.png?format=png",
+            "SHB_EV_TEXT": "`Limited` OMG HAERIN Profile Picture",
+"SMT_EV": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/profile/p_omg_danielle.png?format=png",
+            "SMT_EV_TEXT": "`Limited` OMG DANIELLE Profile Picture",
+            "KJW_EVENT": "https://mberierd.sirv.com/ssk-resource/wallpaper/event/EVENT_KJW_WP.png?format=png",
+            "KJW_TEXT": "`Event` **KIM JIWOONG** Wallpaper",
+            "SHB_EVENT": "https://mberierd.sirv.com/ssk-resource/wallpaper/event/EVENT_SHB_WP.png?format=png",
+            "SHB_TEXT": "`Event` **SUNG HANBIN** Wallpaper",
+            "SMT_EVENT": "https://mberierd.sirv.com/ssk-resource/wallpaper/event/EVENT_SMT_WP.png?format=png",
+            "SMT_TEXT": "`Event` **SEOK MATTHEW** Wallpaper",
+            
+            
+        }
+    ]
+}
