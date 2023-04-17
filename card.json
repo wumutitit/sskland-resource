@@ -1409,7 +1409,7 @@
      ],
      "SWI_KTR_B": [
         {
-            "name": "<:ab_emblem:1086608394401620110> **BOYS PLANET KIM TAERAE** Switch",
+            "name": "<:ab_emblem:1086608394401620110> **BOYS PLANET TAERAE** Switch",
             "image": "https://mberierd.sirv.com/ssk-resource/cards/boysplanet/switch_bp/Card%20Open%20Template_20230417153944.png?format=png",
             "theme": "Switch",
             "inv": "<:ab_emblem:1086608394401620110> Switch"
@@ -1453,6 +1453,54 @@
             "image": "https://mberierd.sirv.com/ssk-resource/cards/boysplanet/switch_bp/Card%20Open%20Template_20230417153538.png?format=png",
             "theme": "Switch",
             "inv": "<:ab_emblem:1086608394401620110> Switch"
+        }
+     ],
+     "SWI_KTR_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **BOYS PLANET TAERAE** Switch",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/boysplanet/switch_bp/Card%20Open%20Template_20230417153450.png?format=png",
+            "theme": "Switch",
+            "inv": "<:emblem_a:1094386551212998778> Switch"
+        }
+     ],
+     "SWI_ZSH_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **BOYS PLANET SHUAIBO** Switch",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/boysplanet/switch_bp/Card%20Open%20Template_20230417153407.png?format=png",
+            "theme": "Switch",
+            "inv": "<:emblem_a:1094386551212998778> Switch"
+        }
+     ],
+     "SWI_PHB_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **BOYS PLANET PARK HANBIN** Switch",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/boysplanet/switch_bp/Card%20Open%20Template_20230417153301.png?format=png",
+            "theme": "Switch",
+            "inv": "<:emblem_a:1094386551212998778> Switch"
+        }
+     ],
+     "SWI_KEI_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **BOYS PLANET KEITA** Switch",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/boysplanet/switch_bp/Card%20Open%20Template_20230417153202.png?format=png",
+            "theme": "Switch",
+            "inv": "<:emblem_a:1094386551212998778> Switch"
+        }
+     ],
+     "SWI_YJW_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **BOYS PLANET JONGWOO** Switch",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/boysplanet/switch_bp/Card%20Open%20Template_20230417151959.png?format=png",
+            "theme": "Switch",
+            "inv": "<:emblem_a:1094386551212998778> Switch"
+        }
+     ],
+     "SWI_KMD_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **BOYS PLANET KAMDEN** Switch",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/boysplanet/switch_bp/Card%20Open%20Template_20230417151911.png?format=png",
+            "theme": "Switch",
+            "inv": "<:emblem_a:1094386551212998778> Switch"
         }
      ]
 }
