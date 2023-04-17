@@ -1358,5 +1358,53 @@
             "theme": "On My Way",
             "inv": "<:emblem_r:1094387478313570314> On My Way"
         }
+     ],
+     "SWI_KTR_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **BOYS PLANET TAERAE** Switch",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/boysplanet/switch_bp/Card%20Open%20Template_20230417154417.png?format=png",
+            "theme": "Switch",
+            "inv": "<:ac_emblem:1086608258464235540> Switch"
+        }
+     ],
+     "SWI_ZSH_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **BOYS PLANET SHUAIBO** Switch",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/boysplanet/switch_bp/Card%20Open%20Template_20230417154340.png?format=png",
+            "theme": "Switch",
+            "inv": "<:ac_emblem:1086608258464235540> Switch"
+        }
+     ],
+     "SWI_PHB_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **BOYS PLANET PARK HANBIN** Switch",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/boysplanet/switch_bp/Card%20Open%20Template_20230417154247.png?format=png",
+            "theme": "Switch",
+            "inv": "<:ac_emblem:1086608258464235540> Switch"
+        }
+     ],
+     "SWI_KEI_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **BOYS PLANET KEITA** Switch",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/boysplanet/switch_bp/Card%20Open%20Template_20230417154201.png?format=png",
+            "theme": "Switch",
+            "inv": "<:ac_emblem:1086608258464235540> Switch"
+        }
+     ],
+     "SWI_YJW_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **BOYS PLANET JEONGWOO** Switch",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/boysplanet/switch_bp/Card%20Open%20Template_20230417154123.png?format=png",
+            "theme": "Switch",
+            "inv": "<:ac_emblem:1086608258464235540> Switch"
+        }
+     ],
+     "SWI_KMD_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **BOYS PLANET KAMDEN** Switch",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/boysplanet/switch_bp/Card%20Open%20Template_20230417154037.png?format=png",
+            "theme": "Switch",
+            "inv": "<:ac_emblem:1086608258464235540> Switch"
+        }
      ]
 }
