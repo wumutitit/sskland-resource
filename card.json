@@ -1550,5 +1550,53 @@
             "theme": "Switch",
             "inv": "<:emblem_s:1094387291784495134> Switch"
         }
+     ],
+     "SWI_KTR_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **BOYS PLANET TAERAE** Switch",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/boysplanet/switch_bp/Card%20Open%20Template_20230417151313.png?format=png",
+            "theme": "Switch",
+            "inv": "<:emblem_r:1094387478313570314> Switch"
+        }
+     ],
+     "SWI_ZSH_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **BOYS PLANET SHUAIBO** Switch",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/boysplanet/switch_bp/Card%20Open%20Template_20230417151232.png?format=png",
+            "theme": "Switch",
+            "inv": "<:emblem_r:1094387478313570314> Switch"
+        }
+     ],
+     "SWI_PHB_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **BOYS PLANET PARK HANBIN** Switch",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/boysplanet/switch_bp/Card%20Open%20Template_20230417151128.png?format=png",
+            "theme": "Switch",
+            "inv": "<:emblem_r:1094387478313570314> Switch"
+        }
+     ],
+     "SWI_KEI_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **BOYS PLANET KEITA** Switch",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/boysplanet/switch_bp/Card%20Open%20Template_20230417151044.png?format=png",
+            "theme": "Switch",
+            "inv": "<:emblem_r:1094387478313570314> Switch"
+        }
+     ],
+     "SWI_YJW_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **BOYS PLANET JONGWOO** Switch",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/boysplanet/switch_bp/Card%20Open%20Template_20230417150946.png?format=png",
+            "theme": "Switch",
+            "inv": "<:emblem_r:1094387478313570314> Switch"
+        }
+     ],
+     "SWI_KMD_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **BOYS PLANET KAMDEN** Switch",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/boysplanet/switch_bp/Card%20Open%20Template_20230417150850.png?format=png",
+            "theme": "Switch",
+            "inv": "<:emblem_r:1094387478313570314> Switch"
+        }
      ]
 }
