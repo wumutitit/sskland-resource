@@ -1678,5 +1678,85 @@
             "theme": "Anti-Romantic",
             "inv": "<:ab_emblem:1086608394401620110> Anti-Romantic"
         }
+     ],
+     "TXAR_CSB_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **TXT SOOBIN** Anti-Romantic",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/txt_antiroman/Card%20Open%20Template_20230418144750.png?format=png",
+            "theme": "Anti-Romantic",
+            "inv": "<:emblem_a:1094386551212998778> Anti-Romantic"
+        }
+     ],
+     "TXAR_YJN_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **TXT YEONJUN** Anti-Romantic",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/txt_antiroman/Card%20Open%20Template_20230418144831.png?format=png",
+            "theme": "Anti-Romantic",
+            "inv": "<:emblem_a:1094386551212998778> Anti-Romantic"
+        }
+     ],
+     "TXAR_BMG_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **TXT BEOMGYU** Anti-Romantic",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/txt_antiroman/Card%20Open%20Template_20230418144915.png?format=png",
+            "theme": "Anti-Romantic",
+            "inv": "<:emblem_a:1094386551212998778> Anti-Romantic"
+        }
+     ],
+     "TXAR_THY_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **TXT TAEHYUN** Anti-Romantic",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/txt_antiroman/Card%20Open%20Template_20230418144959.png?format=png",
+            "theme": "Anti-Romantic",
+            "inv": "<:emblem_a:1094386551212998778> Anti-Romantic"
+        }
+     ],
+     "TXAR_HNK_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **TXT HUENING KAI** Anti-Romantic",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/txt_antiroman/Card%20Open%20Template_20230418145045.png?format=png",
+            "theme": "Anti-Romantic",
+            "inv": "<:emblem_a:1094386551212998778> Anti-Romantic"
+        }
+     ],
+     "TXAR_CSB_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **TXT SOOBIN** Anti-Romantic",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/txt_antiroman/Card%20Open%20Template_20230418144405.png?format=png",
+            "theme": "Anti-Romantic",
+            "inv": "<:emblem_s:1094387291784495134> Anti-Romantic"
+        }
+     ],
+     "TXAR_YJN_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **TXT YEONJUN** Anti-Romantic",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/txt_antiroman/Card%20Open%20Template_20230418144441.png?format=png",
+            "theme": "Anti-Romantic",
+            "inv": "<:emblem_s:1094387291784495134> Anti-Romantic"
+        }
+     ],
+     "TXAR_BMG_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **TXT BEOMGYU** Anti-Romantic",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/txt_antiroman/Card%20Open%20Template_20230418144540.png?format=png",
+            "theme": "Anti-Romantic",
+            "inv": "<:emblem_s:1094387291784495134> Anti-Romantic"
+        }
+     ],
+     "TXAR_THY_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **TXT TAEHYUN** Anti-Romantic",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/txt_antiroman/Card%20Open%20Template_20230418144625.png?format=png",
+            "theme": "Anti-Romantic",
+            "inv": "<:emblem_s:1094387291784495134> Anti-Romantic"
+        }
+     ],
+     "TXAR_HNK_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **TXT HUENING KAI** Anti-Romantic",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/txt_antiroman/Card%20Open%20Template_20230418144703.png?format=png",
+            "theme": "Anti-Romantic",
+            "inv": "<:emblem_s:1094387291784495134> Anti-Romantic"
+        }
      ]
 }
