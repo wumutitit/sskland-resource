@@ -1758,5 +1758,45 @@
             "theme": "Anti-Romantic",
             "inv": "<:emblem_s:1094387291784495134> Anti-Romantic"
         }
+     ],
+     "TXAR_CSB_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **TXT SOOBIN** Anti-Romantic",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/txt_antiroman/Card%20Open%20Template_20230418143849.png?format=png",
+            "theme": "Anti-Romantic",
+            "inv": "<:emblem_r:1094387478313570314> Anti-Romantic"
+        }
+     ],
+     "TXAR_YJN_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **TXT YEONJUN** Anti-Romantic",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/txt_antiroman/Card%20Open%20Template_20230418143939.png?format=png",
+            "theme": "Anti-Romantic",
+            "inv": "<:emblem_r:1094387478313570314> Anti-Romantic"
+        }
+     ],
+     "TXAR_BMG_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **TXT BEOMGYU** Anti-Romantic",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/txt_antiroman/Card%20Open%20Template_20230418144013.png?format=png",
+            "theme": "Anti-Romantic",
+            "inv": "<:emblem_r:1094387478313570314> Anti-Romantic"
+        }
+     ],
+     "TXAR_THY_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **TXT TAEHYUN** Anti-Romantic",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/txt_antiroman/Card%20Open%20Template_20230418144106.png?format=png",
+            "theme": "Anti-Romantic",
+            "inv": "<:emblem_r:1094387478313570314> Anti-Romantic"
+        }
+     ],
+     "TXAR_HNK_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **TXT HUENING KAI** Anti-Romantic",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/txt_antiroman/Card%20Open%20Template_20230418144320.png?format=png",
+            "theme": "Anti-Romantic",
+            "inv": "<:emblem_r:1094387478313570314> Anti-Romantic"
+        }
      ]
 }
