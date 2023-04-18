@@ -41,7 +41,22 @@
       "LSO_TEXT": "`Limited` IVE **LEESEO** Wallpaper",
       
       "SPC_LIMITED": "https://mberierd.sirv.com/ssk-resource/wallpaper/limited/LIMITED_ELIMINATED.jpg?format=png",
-      "SPC_TEXT": "`ELiminated`SUPERCHARGER Wallpaper"
+      "SPC_TEXT": "`ELiminated`SUPERCHARGER Wallpaper",
+      
+      "AESPA_LIMITED": "https://mberierd.sirv.com/ssk-resource/wallpaper/event/aespa/GA_AESPA.png?format=png",
+      "AESPA_TEXT": "`Time-Limited`AESPA Wallpaper",
+      
+      "KARINA_LIMITED": "https://mberierd.sirv.com/ssk-resource/wallpaper/event/aespa/GA_KARINA.png?format=png",
+      "KARINA_TEXT": "`Time-Limited`AESPA **KARINA** Wallpaper",
+      
+      "GISELLE_LIMITED": "https://mberierd.sirv.com/ssk-resource/wallpaper/event/aespa/GA_GISELLE.png?format=png",
+      "GISELLE_TEXT": "`Time-Limited`AESPA **GISELLE** Wallpaper",
+      
+      "WINTER_LIMITED": "https://mberierd.sirv.com/ssk-resource/wallpaper/event/aespa/GA_WINTER.png?format=png",
+      "WINTER_TEXT": "`Time-Limited`AESPA **WINTER** Wallpaper",
+      
+      "NINGNING_LIMITED": "https://mberierd.sirv.com/ssk-resource/wallpaper/event/aespa/GA_NINGNING.png?format=png",
+      "NINGNING_TEXT": "`Time-Limited`AESPA **NINGNING** Wallpaper"
       
       
       }
