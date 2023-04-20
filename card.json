@@ -1942,5 +1942,53 @@
             "theme": "I Need U",
             "inv": "<:emblem_a:1094386551212998778> I Need U"
         }
+     ],
+     "TNXINU_SJN_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **TNX SUNGJUN** I Need U",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/tnx/inu/Card%20Open%20Template_20230420111147.png?format=png",
+            "theme": "I Need U",
+            "inv": "<:emblem_s:1094387291784495134> I Need U"
+        }
+     ],
+     "TNXINU_HWI_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **TNX HWI** I Need U",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/tnx/inu/Card%20Open%20Template_20230420111222.png?format=png",
+            "theme": "I Need U",
+            "inv": "<:emblem_s:1094387291784495134> I Need U"
+        }
+     ],
+     "TNXINU_HYS_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **TNX HYUNSOO** I Need U",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/tnx/inu/Card%20Open%20Template_20230420111339.png?format=png",
+            "theme": "I Need U",
+            "inv": "<:emblem_s:1094387291784495134> I Need U"
+        }
+     ],
+     "TNXINU_THN_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **TNX TAEHUN** I Need U",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/tnx/inu/Card%20Open%20Template_20230420111302.png?format=png",
+            "theme": "I Need U",
+            "inv": "<:emblem_s:1094387291784495134> I Need U"
+        }
+     ],
+     "TNXINU_JNH_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **TNX JUNHYEOK** I Need U",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/tnx/inu/Card%20Open%20Template_20230420111424.png?format=png",
+            "theme": "I Need U",
+            "inv": "<:emblem_s:1094387291784495134> I Need U"
+        }
+     ],
+     "TNXINU_KYJ_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **TNX KYUNGJUN** I Need U",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/tnx/inu/Card%20Open%20Template_20230420111504.png?format=png",
+            "theme": "I Need U",
+            "inv": "<:emblem_s:1094387291784495134> I Need U"
+        }
      ]
 }
