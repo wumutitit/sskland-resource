@@ -1854,5 +1854,93 @@
             "theme": "I Need U",
             "inv": "<:ab_emblem:1086608394401620110> I Need U"
         }
+     ],
+     "TNXINU_HWI_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **TNX HWI** I Need U",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/tnx/inu/Card%20Open%20Template_20230420112241.png?format=png",
+            "theme": "I Need U",
+            "inv": "<:ab_emblem:1086608394401620110> I Need U"
+        }
+     ],
+     "TNXINU_HYS_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **TNX HYUNSOO** I Need U",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/tnx/inu/Card%20Open%20Template_20230420112419.png?format=png",
+            "theme": "I Need U",
+            "inv": "<:ab_emblem:1086608394401620110> I Need U"
+        }
+     ],
+     "TNXINU_THN_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **TNX TAEHUN** I Need U",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/tnx/inu/Card%20Open%20Template_20230420112349.png?format=png",
+            "theme": "I Need U",
+            "inv": "<:ab_emblem:1086608394401620110> I Need U"
+        }
+     ],
+     "TNXINU_JNH_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **TNX JUNHYEOK** I Need U",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/tnx/inu/Card%20Open%20Template_20230420112457.png?format=png",
+            "theme": "I Need U",
+            "inv": "<:ab_emblem:1086608394401620110> I Need U"
+        }
+     ],
+     "TNXINU_KYJ_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **TNX KYUNGJUN** I Need U",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/tnx/inu/Card%20Open%20Template_20230420112530.png?format=png",
+            "theme": "I Need U",
+            "inv": "<:ab_emblem:1086608394401620110> I Need U"
+        }
+     ],
+     "TNXINU_SJN_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **TNX SUNGJUN** I Need U",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/tnx/inu/Card%20Open%20Template_20230420111600.png?format=png",
+            "theme": "I Need U",
+            "inv": "<:emblem_a:1094386551212998778> I Need U"
+        }
+     ],
+     "TNXINU_HWI_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **TNX HWI** I Need U",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/tnx/inu/Card%20Open%20Template_20230420111639.png?format=png",
+            "theme": "I Need U",
+            "inv": "<:emblem_a:1094386551212998778> I Need U"
+        }
+     ],
+     "TNXINU_HYS_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **TNX HYUNSOO** I Need U",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/tnx/inu/Card%20Open%20Template_20230420111834.png?format=png",
+            "theme": "I Need U",
+            "inv": "<:emblem_a:1094386551212998778> I Need U"
+        }
+     ],
+     "TNXINU_THN_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **TNX TAEHUN** I Need U",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/tnx/inu/Card%20Open%20Template_20230420111753.png?format=png",
+            "theme": "I Need U",
+            "inv": "<:emblem_a:1094386551212998778> I Need U"
+        }
+     ],
+     "TNXINU_JNH_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **TNX JUNHYEOK** I Need U",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/tnx/inu/Card%20Open%20Template_20230420111912.png?format=png",
+            "theme": "I Need U",
+            "inv": "<:emblem_a:1094386551212998778> I Need U"
+        }
+     ],
+     "TNXINU_KYJ_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **TNX KYUNGJUN** I Need U",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/tnx/inu/Card%20Open%20Template_20230420111952.png?format=png",
+            "theme": "I Need U",
+            "inv": "<:emblem_a:1094386551212998778> I Need U"
+        }
      ]
 }
