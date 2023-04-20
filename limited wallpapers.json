@@ -83,7 +83,22 @@
       "ACCH_TEXT": "`Time-Limited` A.C.E **CHAN** Wallpaper",
       
       "ACBK_LIMITED": "https://mberierd.sirv.com/ssk-resource/wallpaper/event/ace/BYEONGKWAN_LM_WP.png?format=png",
-      "ACBK_TEXT": "`Time-Limited` A.C.E **BYEONGKWAN** Wallpaper"
+      "ACBK_TEXT": "`Time-Limited` A.C.E **BYEONGKWAN** Wallpaper",
+      
+      "BPOVM_LIMITED": "https://mberierd.sirv.com/ssk-resource/wallpaper/limited/LIMITED_OVM_WP.png?format=png",
+      "BPOVM_TEXT": "`Limited` BOYS PLANET **Over Me** Wallpaper",
+      
+      "BPSMN_LIMITED": "https://mberierd.sirv.com/ssk-resource/wallpaper/limited/LIMITED_SMN_WP.png?format=png",
+      "BPSMN_TEXT": "`Limited` BOYS PLANET **Say My Name** Wallpaper",
+      
+      "BPSWI_LIMITED": "https://mberierd.sirv.com/ssk-resource/wallpaper/limited/LIMITED_SWI_WP.png?format=png",
+      "BPSWI_TEXT": "`Limited` BOYS PLANET **Switch** Wallpaper",
+      
+      "BPENG_LIMITED": "https://mberierd.sirv.com/ssk-resource/wallpaper/limited/LIMITED_ENG_WP.png?format=png",
+      "BPENG_TEXT": "`Limited` BOYS PLANET **En Garde** Wallpaper",
+      
+      "BPSPC_LIMITED": "https://mberierd.sirv.com/ssk-resource/wallpaper/limited/LIMITED_SPC_WP.png?format=png",
+      "BPSPC_TEXT": "`Limited` BOYS PLANET **Supercharger** Wallpaper"
       
       
       }
