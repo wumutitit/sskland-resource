@@ -1,0 +1,18 @@
+{
+    "set": [
+        {
+            "EXHB1_EXCLUSIVE": "https://mberierd.sirv.com/ssk-resource/pfp/limited/boysplanet/ZB1/hanbin/SHB1_PFP.png?format=png",
+            "EXHB1_EXCLUSIVE_TEXT": "`Exclusive` ZB1 HANBIN Profile Picture",
+"EXHB2_EXCLUSIVE": "https://mberierd.sirv.com/ssk-resource/pfp/limited/boysplanet/ZB1/hanbin/SHB2_PFP.png?format=png",
+            "EXHB2_EXCLUSIVE_TEXT": "`Exclusive` ZB1 HANBIN Picture",
+"EXHB3_EXCLUSIVE": "https://mberierd.sirv.com/ssk-resource/pfp/limited/boysplanet/ZB1/hanbin/SHB3_PFP.png?format=png",
+            "EXHB3_EXCLUSIVE_TEXT": "`Exclusuve` ZB1 HANBIN Picture",                
+            "KJW_EVENT": "https://mberierd.sirv.com/ssk-resource/wallpaper/event/EVENT_KJW_WP.png?format=png",
+            "KJW_TEXT": "`Event` **KIM JIWOONG** Wallpaper",
+            "SHB_EVENT": "https://mberierd.sirv.com/ssk-resource/wallpaper/event/EVENT_SHB_WP.png?format=png",
+            "SHB_TEXT": "`Event` **SUNG HANBIN** Wallpaper",
+            "SMT_EVENT": "https://mberierd.sirv.com/ssk-resource/wallpaper/event/EVENT_SMT_WP.png?format=png",
+            "SMT_TEXT": "`Event` **SEOK MATTHEW** Wallpaper"
+        }
+    ]
+}
