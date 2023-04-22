@@ -2038,5 +2038,85 @@
             "theme": "I Need U",
             "inv": "<:emblem_r:1094387478313570314> I Need U"
         }
+     ],
+     "KAI_CMR_V_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **KAI Vocal** Call Me Rover",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/kaicmr/Card%20Open%20Template_20230422201127.png?format=png",
+            "theme": "Call Me Rover",
+            "inv": "<:ac_emblem:1086608258464235540> Call Me Rover"
+        }
+     ],
+     "KAI_CMR_V_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **KAI Vocal** Call Me Rover",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/kaicmr/Card%20Open%20Template_20230422201344.png?format=png",
+            "theme": "Call Me Rover",
+            "inv": "<:ab_emblem:1086608394401620110> Call Me Rover"
+        }
+     ],
+     "KAI_CMR_V_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **KAI Vocal** Call Me Rover",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/kaicmr/Card%20Open%20Template_20230422201538.png?format=png",
+            "theme": "Call Me Rover",
+            "inv": "<:emblem_a:1094386551212998778> Call Me Rover"
+        }
+     ],
+     "KAI_CMR_V_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **KAI Vocal** Call Me Rover",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/kaicmr/Card%20Open%20Template_20230422201722.png?format=png",
+            "theme": "Call Me Rover",
+            "inv": "<:emblem_s:1094387291784495134> Call Me Rover"
+        }
+     ],
+     "KAI_CMR_V_R": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **KAI Vocal** Call Me Rover",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/kaicmr/Card%20Open%20Template_20230422201932.png?format=png",
+            "theme": "Call Me Rover",
+            "inv": "<:emblem_s:1094387291784495134> Call Me Rover"
+        }
+     ],
+     "KAI_CMR_D_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **KAI Dance** Call Me Rover",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/kaicmr/Card%20Open%20Template_20230422201158.png?format=png",
+            "theme": "Call Me Rover",
+            "inv": "<:ac_emblem:1086608258464235540> Call Me Rover"
+        }
+     ],
+     "KAI_CMR_D_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **KAI Dance** Call Me Rover",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/kaicmr/Card%20Open%20Template_20230422201415.png?format=png",
+            "theme": "Call Me Rover",
+            "inv": "<:ab_emblem:1086608394401620110> Call Me Rover"
+        }
+     ],
+     "KAI_CMR_D_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **KAI Dance** Call Me Rover",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/kaicmr/Card%20Open%20Template_20230422201613.png?format=png",
+            "theme": "Call Me Rover",
+            "inv": "<:emblem_a:1094386551212998778> Call Me Rover"
+        }
+     ],
+     "KAI_CMR_D_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **KAI Dance** Call Me Rover",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/kaicmr/Card%20Open%20Template_20230422201759.png?format=png",
+            "theme": "Call Me Rover",
+            "inv": "<:emblem_s:1094387291784495134> Call Me Rover"
+        }
+     ],
+     "KAI_CMR_D_R": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **KAI Vocal** Call Me Rover",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/kaicmr/Card%20Open%20Template_20230422202007.png?format=png",
+            "theme": "Call Me Rover",
+            "inv": "<:emblem_s:1094387291784495134> Call Me Rover"
+        }
      ]
 }
