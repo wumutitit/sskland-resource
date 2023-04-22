@@ -2,46 +2,46 @@
   "wallpapers": [
     {
       "KJW_LIMITED": "https://mberierd.sirv.com/ssk-resource/wallpaper/event/EVENT_KJW_WP.png?format=png",
-      "KJW_TEXT": "`Limited` **KIM JIWOONG** Boys Planet Wallpaper",
+      "KJW_TEXT": "`Time-Limited` **KIM JIWOONG** Boys Planet Wallpaper",
       
       "SHB_LIMITED": "https://mberierd.sirv.com/ssk-resource/wallpaper/event/EVENT_SHB_WP.png?format=png",
-      "SHB_TEXT": "`Limited` **SUNG HANBIN** Boys Planet Wallpaper",
+      "SHB_TEXT": "`Time-Limited` **SUNG HANBIN** Boys Planet Wallpaper",
       
       "SMT_LIMITED": "https://mberierd.sirv.com/ssk-resource/wallpaper/event/EVENT_SMT_WP.png?format=png",
-      "SMT_TEXT": "`Limited` **SEOK MATTHEW** Boys Planet Wallpaper",
+      "SMT_TEXT": "`Time-Limited` **SEOK MATTHEW** Boys Planet Wallpaper",
       
       "KTR_LIMITED": "https://mberierd.sirv.com/ssk-resource/wallpaper/event/EVENT_KTR_WP.png?format=png",
-      "KTR_TEXT": "`Limited` **KIM TAERAE** Boys Planet Wallpaper",
+      "KTR_TEXT": "`Time-Limited` **KIM TAERAE** Boys Planet Wallpaper",
       
       "HYJ_LIMITED": "https://mberierd.sirv.com/ssk-resource/wallpaper/event/EVENT_HYJ_WP.png?format=png",
-      "HYJ_TEXT": "`Limited` **HAN YUJIN** Boys Planet Wallpaper",
+      "HYJ_TEXT": "`Time-Limited` **HAN YUJIN** Boys Planet Wallpaper",
       
       "LJH_LIMITED": "https://mberierd.sirv.com/ssk-resource/wallpaper/event/EVENT_LJH_WP.png?format=png",
-      "LJH_TEXT": "`Limited` **LEE JEONGHYEON** Boys Planet Wallpaper",
+      "LJH_TEXT": "`Time-Limited` **LEE JEONGHYEON** Boys Planet Wallpaper",
       
       "KGV_LIMITED": "https://mberierd.sirv.com/ssk-resource/wallpaper/event/EVENT_KGB_WP.png?format=png",
-      "KGV_TEXT": "`Limited` **KIM GYUVIN** Boys Planet Wallpaper",
+      "KGV_TEXT": "`Time-Limited` **KIM GYUVIN** Boys Planet Wallpaper",
       
       "AYJ_LIMITED": "https://mberierd.sirv.com/ssk-resource/wallpaper/event/EVENT_AYJ_WP.png?format=png",
-      "AYJ_TEXT": "`Limited` IVE **ANYUJIN** Wallpaper",
+      "AYJ_TEXT": "`Time-Limited` IVE **ANYUJIN** Wallpaper",
       
       "GEU_LIMITED": "https://mberierd.sirv.com/ssk-resource/wallpaper/event/EVENT_GEU_WP.png?format=png",
-      "GEU_TEXT": "`Limited` IVE **GAEUL** Wallpaper",
+      "GEU_TEXT": "`Time-Limited` IVE **GAEUL** Wallpaper",
       
       "REI_LIMITED": "https://mberierd.sirv.com/ssk-resource/wallpaper/event/EVENT_REI_WP.png?format=png",
-      "REI_TEXT": "`Limited` IVE **REI** Wallpaper",
+      "REI_TEXT": "`Time-Limited` IVE **REI** Wallpaper",
       
       "JWY_LIMITED": "https://mberierd.sirv.com/ssk-resource/wallpaper/event/EVENT_JWY_WP.png?format=png",
-      "JWY_TEXT": "`Limited` IVE **JANGWONYOUNG** Wallpaper",
+      "JWY_TEXT": "`Time-Limited` IVE **JANGWONYOUNG** Wallpaper",
       
       "LIZ_LIMITED": "https://mberierd.sirv.com/ssk-resource/wallpaper/event/EVENT_LIZ_WP.png?format=png",
-      "LIZ_TEXT": "`Limited` IVE **LIZ** Wallpaper",
+      "LIZ_TEXT": "`Time-Limited` IVE **LIZ** Wallpaper",
       
       "LSO_LIMITED": "https://mberierd.sirv.com/ssk-resource/wallpaper/event/EVENT_LSO_WP.png?format=png",
-      "LSO_TEXT": "`Limited` IVE **LEESEO** Wallpaper",
+      "LSO_TEXT": "`Time-Limited` IVE **LEESEO** Wallpaper",
       
       "SPC_LIMITED": "https://mberierd.sirv.com/ssk-resource/wallpaper/limited/LIMITED_ELIMINATED.jpg?format=png",
-      "SPC_TEXT": "`ELiminated` SUPERCHARGER Wallpaper",
+      "SPC_TEXT": "`Time-ELiminated` SUPERCHARGER Wallpaper",
       
       "AESPA_LIMITED": "https://mberierd.sirv.com/ssk-resource/wallpaper/event/aespa/GA_AESPA.png?format=png",
       "AESPA_TEXT": "`Time-Limited` AESPA Wallpaper",
@@ -83,28 +83,7 @@
       "ACCH_TEXT": "`Time-Limited` A.C.E **CHAN** Wallpaper",
       
       "ACBK_LIMITED": "https://mberierd.sirv.com/ssk-resource/wallpaper/event/ace/BYEONGKWAN_LM_WP.png?format=png",
-      "ACBK_TEXT": "`Time-Limited` A.C.E **BYEONGKWAN** Wallpaper",
-      
-      "BPOVM_LIMITED": "https://mberierd.sirv.com/ssk-resource/wallpaper/limited/LIMITED_OVM_WP.png?format=png",
-      "BPOVM_TEXT": "`Limited` BOYS PLANET **Over Me** Wallpaper",
-      
-      "BPSMN_LIMITED": "https://mberierd.sirv.com/ssk-resource/wallpaper/limited/LIMITED_SMN_WP.png?format=png",
-      "BPSMN_TEXT": "`Limited` BOYS PLANET **Say My Name** Wallpaper",
-      
-      "BPSWI_LIMITED": "https://mberierd.sirv.com/ssk-resource/wallpaper/limited/LIMITED_SWI_WP.png?format=png",
-      "BPSWI_TEXT": "`Limited` BOYS PLANET **Switch** Wallpaper",
-      
-      "BPENG_LIMITED": "https://mberierd.sirv.com/ssk-resource/wallpaper/limited/LIMITED_ENG_WP.png?format=png",
-      "BPENG_TEXT": "`Limited` BOYS PLANET **En Garde** Wallpaper",
-      
-      "ZB1ZH_LIMITED": "https://mberierd.sirv.com/ssk-resource/wallpaper/event/EVENT_ZH_WP.png?format=png",
-      "ZB1ZH_TEXT": "`Limited` ZB1 **ZHANGHAO** Wallpaper",
-      
-      "ZB1PGW_LIMITED": "https://mberierd.sirv.com/ssk-resource/wallpaper/event/EVENT_PGW_WP.png?format=png",
-      "ZB1PGW_TEXT": "`Limited` ZB1 **PARK GUNWOOK** Wallpaper",
-      
-      "BPLHT_LIMITED": "https://mberierd.sirv.com/ssk-resource/wallpaper/event/EVENT_LHT_WP.png?format=png",
-      "BPLHT_TEXT": "`Limited` BOYS PLANET **LEE HOETAEK** Wallpaper"
+      "ACBK_TEXT": "`Time-Limited` A.C.E **BYEONGKWAN** Wallpaper"
       
       
       }
