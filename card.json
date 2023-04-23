@@ -2223,7 +2223,6 @@
             "inv": "<:ab_emblem:1086608394401620110> Iconic"
         }
      ],
-
      "AEIC_KR_A": [
         {
             "name": "<:emblem_a:1094386551212998778> **æspa Karina** Iconic",
@@ -2243,7 +2242,7 @@
      "AEIC_WT_A": [
         {
             "name": "<:emblem_a:1094386551212998778> **æspa Winter** Iconic",
-            "image": "https://mberierd.sirv.com/ssk-resource/cards/aespa_iconic/Card%20Open%20Template_20230422205303.png?format=png",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/aespa_iconic/Card%20Open%20Template_20230423151620.png?format=png",
             "theme": "Iconic",
             "inv": "<:emblem_a:1094386551212998778> Iconic"
         }
@@ -2256,4 +2255,4 @@
             "inv": "<:emblem_a:1094386551212998778> Iconic"
         }
      ]
-}    
+}
