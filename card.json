@@ -2158,5 +2158,102 @@
             "theme": "Call Me Rover",
             "inv": "<:emblem_r:1094387478313570314> Call Me Rover"
         }
+     ],
+     "AEIC_KR_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **æspa Karina** Iconic",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/aespa_iconic/Card%20Open%20Template_20230422202120.png?format=png",
+            "theme": "Iconic",
+            "inv": "<:ac_emblem:1086608258464235540> Iconic"
+        }
+     ],
+     "AEIC_GS_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **æspa Giselle** Iconic",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/aespa_iconic/Card%20Open%20Template_20230422204818.png?format=png",
+            "theme": "Iconic",
+            "inv": "<:ac_emblem:1086608258464235540> Iconic"
+        }
+     ],
+     "AEIC_WT_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **æspa Winter** Iconic",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/aespa_iconic/Card%20Open%20Template_20230422204925.png?format=png",
+            "theme": "Iconic",
+            "inv": "<:ac_emblem:1086608258464235540> Iconic"
+        }
+     ],
+     "AEIC_NN_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **æspa Ningning** Iconic",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/aespa_iconic/Card%20Open%20Template_20230422205043.png?format=png",
+            "theme": "Iconic",
+            "inv": "<:ac_emblem:1086608258464235540> Iconic"
+        }
+     ],
+     "AEIC_KR_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **æspa Karina** Iconic",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/aespa_iconic/Card%20Open%20Template_20230422205135.png?format=png",
+            "theme": "Iconic",
+            "inv": "<:ab_emblem:1086608394401620110> Iconic"
+        }
+     ],
+     "AEIC_GS_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **æspa Giselle** Iconic",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/aespa_iconic/Card%20Open%20Template_20230422205216.png?format=png",
+            "theme": "Iconic",
+            "inv": "<:ab_emblem:1086608394401620110> Iconic"
+        }
+     ],
+     "AEIC_WT_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **æspa Winter** Iconic",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/aespa_iconic/Card%20Open%20Template_20230422205303.png?format=png",
+            "theme": "Iconic",
+            "inv": "<:ab_emblem:1086608394401620110> Iconic"
+        }
+     ],
+     "AEIC_NN_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **æspa Ningning** Iconic",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/aespa_iconic/Card%20Open%20Template_20230422205354.png?format=png",
+            "theme": "Iconic",
+            "inv": "<:ab_emblem:1086608394401620110> Iconic"
+        }
+     ],
+
+     "AEIC_KR_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **æspa Karina** Iconic",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/aespa_iconic/Card%20Open%20Template_20230422205443.png?format=png",
+            "theme": "Iconic",
+            "inv": "<:emblem_a:1094386551212998778> Iconic"
+        }
+     ],
+     "AEIC_GS_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **æspa Giselle** Iconic",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/aespa_iconic/Card%20Open%20Template_20230422205540.png?format=png",
+            "theme": "Iconic",
+            "inv": "<:emblem_a:1094386551212998778> Iconic"
+        }
+     ],
+     "AEIC_WT_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **æspa Winter** Iconic",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/aespa_iconic/Card%20Open%20Template_20230422205303.png?format=png",
+            "theme": "Iconic",
+            "inv": "<:emblem_a:1094386551212998778> Iconic"
+        }
+     ],
+     "AEIC_NN_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **æspa Ningning** Iconic",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/aespa_iconic/Card%20Open%20Template_20230422205653.png?format=png",
+            "theme": "Iconic",
+            "inv": "<:emblem_a:1094386551212998778> Iconic"
+        }
      ]
-}
+}    
