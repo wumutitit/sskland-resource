@@ -2359,7 +2359,6 @@
             "inv": "<:emblem_r:1094387478313570314> En Garde"
         }
      ],
-
      "BPEN_LSH_C": [
         {
             "name": "<:ac_emblem:1086608258464235540> **BOYS PLANET Seunghwan** En Garde",
@@ -2396,6 +2395,86 @@
         {
             "name": "<:emblem_r:1094387478313570314> **BOYS PLANET Seunghwan** En Garde",
             "image": "https://mberierd.sirv.com/ssk-resource/cards/boysplanet/eng_bp/Card%20Open%20Template_20230428160926.png?format=png",
+            "theme": "En Garde",
+            "inv": "<:emblem_r:1094387478313570314> En Garde"
+        }
+     ],
+     "BPEN_HRT_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **BOYS PLANET Hiroto** En Garde",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/boysplanet/eng_bp/Card%20Open%20Template_20230428163032.png?format=png",
+            "theme": "En Garde",
+            "inv": "<:ac_emblem:1086608258464235540> En Garde"
+        }
+     ],
+     "BPEN_HRT_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **BOYS PLANET Hiroto** En Garde",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/boysplanet/eng_bp/Card%20Open%20Template_20230428162553.png?format=png",
+            "theme": "En Garde",
+            "inv": "<:ab_emblem:1086608394401620110> En Garde"
+        }
+     ],
+     "BPEN_HRT_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **BOYS PLANET Hiroto** En Garde",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/boysplanet/eng_bp/Card%20Open%20Template_20230428162143.png?format=png",
+            "theme": "En Garde",
+            "inv": "<:emblem_a:1094386551212998778> En Garde"
+        }
+     ],
+     "BPEN_HRT_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **BOYS PLANET Hiroto** En Garde",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/boysplanet/eng_bp/Card%20Open%20Template_20230428161356.png?format=png",
+            "theme": "En Garde",
+            "inv": "<:emblem_s:1094387291784495134> En Garde"
+        }
+     ],
+     "BPEN_HRT_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **BOYS PLANET Hiroto** En Garde",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/boysplanet/eng_bp/Card%20Open%20Template_20230428161026.png?format=png",
+            "theme": "En Garde",
+            "inv": "<:emblem_r:1094387478313570314> En Garde"
+        }
+     ],
+     "BPEN_KJH_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **BOYS PLANET Junhyeon** En Garde",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/boysplanet/eng_bp/Card%20Open%20Template_20230428163133.png?format=png",
+            "theme": "En Garde",
+            "inv": "<:ac_emblem:1086608258464235540> En Garde"
+        }
+     ],
+     "BPEN_KJH_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **BOYS PLANET Junhyeon** En Garde",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/boysplanet/eng_bp/Card%20Open%20Template_20230428162645.png?format=png",
+            "theme": "En Garde",
+            "inv": "<:ab_emblem:1086608394401620110> En Garde"
+        }
+     ],
+     "BPEN_KJH_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **BOYS PLANET Junhyeon** En Garde",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/boysplanet/eng_bp/Card%20Open%20Template_20230428162222.png?format=png",
+            "theme": "En Garde",
+            "inv": "<:emblem_a:1094386551212998778> En Garde"
+        }
+     ],
+     "BPEN_KJH_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **BOYS PLANET Junhyeon** En Garde",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/boysplanet/eng_bp/Card%20Open%20Template_20230428161529.png?format=png",
+            "theme": "En Garde",
+            "inv": "<:emblem_s:1094387291784495134> En Garde"
+        }
+     ],
+     "BPEN_KJH_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **BOYS PLANET Junhyeon** En Garde",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/boysplanet/eng_bp/Card%20Open%20Template_20230428161146.png?format=png",
             "theme": "En Garde",
             "inv": "<:emblem_r:1094387478313570314> En Garde"
         }
