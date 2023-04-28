@@ -2353,11 +2353,51 @@
      ],
      "BPEN_LHT_R": [
         {
-            "name": "<:emblem_r:1094387478313570314> **XIKERS MINJAE** **BOYS PLANET Hoetaek** En Garde",
+            "name": "<:emblem_r:1094387478313570314> **BOYS PLANET Hoetaek** En Garde",
             "image": "https://mberierd.sirv.com/ssk-resource/cards/boysplanet/eng_bp/Card%20Open%20Template_20230428160814.png?format=png",
+            "theme": "En Garde",
+            "inv": "<:emblem_r:1094387478313570314> En Garde"
+        }
+     ],
+
+     "BPEN_LSH_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **BOYS PLANET Seunghwan** En Garde",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/boysplanet/eng_bp/Card%20Open%20Template_20230428162950.png?format=png",
+            "theme": "En Garde",
+            "inv": "<:ac_emblem:1086608258464235540> En Garde"
+        }
+     ],
+     "BPEN_LSH_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **BOYS PLANET Seunghwan** En Garde",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/boysplanet/eng_bp/Card%20Open%20Template_20230428162511.png?format=png",
+            "theme": "En Garde",
+            "inv": "<:ab_emblem:1086608394401620110> En Garde"
+        }
+     ],
+     "BPEN_LSH_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **BOYS PLANET Seunghwan** En Garde",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/boysplanet/eng_bp/Card%20Open%20Template_20230428161956.png?format=png",
+            "theme": "En Garde",
+            "inv": "<:emblem_a:1094386551212998778> En Garde"
+        }
+     ],
+     "BPEN_LSH_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **BOYS PLANET Seunghwan** En Garde",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/boysplanet/eng_bp/Card%20Open%20Template_20230428161356.png?format=png",
+            "theme": "En Garde",
+            "inv": "<:emblem_s:1094387291784495134> En Garde"
+        }
+     ],
+     "BPEN_LSH_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **BOYS PLANET Seunghwan** En Garde",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/boysplanet/eng_bp/Card%20Open%20Template_20230428160926.png?format=png",
             "theme": "En Garde",
             "inv": "<:emblem_r:1094387478313570314> En Garde"
         }
      ]
 }
-
