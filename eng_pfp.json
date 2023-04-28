@@ -1,10 +1,8 @@
 {
     "set": [
         {
-            "BLPJS_PV_LIMITED": "https://mberierd.sirv.com/ssk-resource/pfp/blackpink/pv/LIMITED_JISOO_ICON.png?format=png",
-            "BLPJS_PV_LIMITED_TEXT": "`Limited` BLACKPINK **JISOO** Pink Venom Profile Picture",      
-"BPLHT_ENG_LIMITED": "https://mberierd.sirv.com/ssk-resource/pfp/boysplanet/engarde/ENG_LHT.png?format=png",
-            "BPLHT_ENG_LIMITED_TEXT": "`Limited` BOYS PLANET **HOETAEK** En Garde Profile Picture",                          
+            "BPLHT_ENG_LIMITED": "https://mberierd.sirv.com/ssk-resource/pfp/boysplanet/engarde/ENG_LHT.png?format=png",
+            "BPLHT_ENG_LIMITED_TEXT": "`Limited` BOYS PLANET **HOETAEK** Pink Venom Profile Picture",      
 "BPLSH_ENG_LIMITED": "https://mberierd.sirv.com/ssk-resource/pfp/boysplanet/engarde/ENG_LSH.png?format=png",
             "BPLSH_ENG_LIMITED_TEXT": "`Limited` BOYS PLANET **SEUNGHWAN** En Garde Profile Picture",                          
 "BPHRT_ENG_LIMITED": "https://mberierd.sirv.com/ssk-resource/pfp/boysplanet/engarde/ENG_HRT.png?format=png",
