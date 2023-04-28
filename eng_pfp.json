@@ -1,0 +1,24 @@
+{
+    "set": [
+        {
+            "BLPJS_PV_LIMITED": "https://mberierd.sirv.com/ssk-resource/pfp/blackpink/pv/LIMITED_JISOO_ICON.png?format=png",
+            "BLPJS_PV_LIMITED_TEXT": "`Limited` BLACKPINK **JISOO** Pink Venom Profile Picture",      
+"BPLHT_ENG_LIMITED": "https://mberierd.sirv.com/ssk-resource/pfp/boysplanet/engarde/ENG_LHT.png?format=png",
+            "BPLHT_ENG_LIMITED_TEXT": "`Limited` BOYS PLANET **HOETAEK** En Garde Profile Picture",                          
+"BPLSH_ENG_LIMITED": "https://mberierd.sirv.com/ssk-resource/pfp/boysplanet/engarde/ENG_LSH.png?format=png",
+            "BPLSH_ENG_LIMITED_TEXT": "`Limited` BOYS PLANET **SEUNGHWAN** En Garde Profile Picture",                          
+"BPHRT_ENG_LIMITED": "https://mberierd.sirv.com/ssk-resource/pfp/boysplanet/engarde/ENG_HRT.png?format=png",
+            "BPHRT_ENG_LIMITED_TEXT": "`Limited` BOYS PLANET **HIROTO** En Garde Profile Picture",                          
+"BPKJH_ENG_LIMITED": "https://mberierd.sirv.com/ssk-resource/pfp/boysplanet/engarde/ENG_KJH.png?format=png",
+            "BPKJH_ENG_LIMITED_TEXT": "`Limited` BOYS PLANET **JUNHYEON** En Garde Profile Picture",                          
+"BPKGV_ENG_LIMITED": "https://mberierd.sirv.com/ssk-resource/pfp/boysplanet/engarde/ENG_KGV.png?format=png",
+            "BPKGV_ENG_LIMITED_TEXT": "`Limited` BOYS PLANET **GYUVIN** En Garde Profile Picture",                          
+"BPPGW_ENG_LIMITED": "https://mberierd.sirv.com/ssk-resource/pfp/boysplanet/engarde/ENG_PGW.png?format=png",
+            "BPPGW_ENG_LIMITED_TEXT": "`Limited` BOYS PLANET **GUNWOOK** En Garde Profile Picture",                          
+            "SHB_EVENT": "https://mberierd.sirv.com/ssk-resource/wallpaper/event/EVENT_SHB_WP.png?format=png",
+            "SHB_TEXT": "`Event` **SUNG HANBIN** Wallpaper",
+            "SMT_EVENT": "https://mberierd.sirv.com/ssk-resource/wallpaper/event/EVENT_SMT_WP.png?format=png",
+            "SMT_TEXT": "`Event` **SEOK MATTHEW** Wallpaper"
+        }
+    ]
+}
