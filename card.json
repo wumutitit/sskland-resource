@@ -2518,5 +2518,45 @@
             "theme": "En Garde",
             "inv": "<:emblem_r:1094387478313570314> En Garde"
         }
+     ],
+     "BPEN_PGW_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **BOYS PLANET Gunwook** En Garde",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/boysplanet/eng_bp/Card%20Open%20Template_20230428163317.png?format=png",
+            "theme": "En Garde",
+            "inv": "<:ac_emblem:1086608258464235540> En Garde"
+        }
+     ],
+     "BPEN_PGW_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **BOYS PLANET Gunwook** En Garde",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/boysplanet/eng_bp/Card%20Open%20Template_20230428162816.png?format=png",
+            "theme": "En Garde",
+            "inv": "<:ab_emblem:1086608394401620110> En Garde"
+        }
+     ],
+     "BPEN_PGW_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **BOYS PLANET Gunwook** En Garde",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/boysplanet/eng_bp/Card%20Open%20Template_20230428162405.png?format=png",
+            "theme": "En Garde",
+            "inv": "<:emblem_a:1094386551212998778> En Garde"
+        }
+     ],
+     "BPEN_PGW_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **BOYS PLANET Gunwook** En Garde",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/boysplanet/eng_bp/Card%20Open%20Template_20230428161855.png?format=png",
+            "theme": "En Garde",
+            "inv": "<:emblem_s:1094387291784495134> En Garde"
+        }
+     ],
+     "BPEN_PGW_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **BOYS PLANET Gunwook** En Garde",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/boysplanet/eng_bp/Card%20Open%20Template_20230428161246.png?format=png",
+            "theme": "En Garde",
+            "inv": "<:emblem_r:1094387478313570314> En Garde"
+        }
      ]
 }
