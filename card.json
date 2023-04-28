@@ -2318,5 +2318,46 @@
             "theme": "Iconic",
             "inv": "<:emblem_r:1094387478313570314> Iconic"
         }
+     ],
+     "BPEN_LHT_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **BOYS PLANET Hoetaek** En Garde",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/boysplanet/eng_bp/Card%20Open%20Template_20230428162853.png?format=png",
+            "theme": "En Garde",
+            "inv": "<:ac_emblem:1086608258464235540> En Garde"
+        }
+     ],
+     "BPEN_LHT_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **BOYS PLANET Hoetaek** En Garde",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/boysplanet/eng_bp/Card%20Open%20Template_20230428162439.png?format=png",
+            "theme": "En Garde",
+            "inv": "<:ab_emblem:1086608394401620110> En Garde"
+        }
+     ],
+     "BPEN_LHT_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **BOYS PLANET Hoetaek** En Garde",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/boysplanet/eng_bp/Card%20Open%20Template_20230428161956.png?format=png",
+            "theme": "En Garde",
+            "inv": "<:emblem_a:1094386551212998778> En Garde"
+        }
+     ],
+     "BPEN_LHT_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **BOYS PLANET Hoetaek** En Garde",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/boysplanet/eng_bp/Card%20Open%20Template_20230428161318.png?format=png",
+            "theme": "En Garde",
+            "inv": "<:emblem_s:1094387291784495134> En Garde"
+        }
+     ],
+     "BPEN_LHT_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **XIKERS MINJAE** **BOYS PLANET Hoetaek** En Garde",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/boysplanet/eng_bp/Card%20Open%20Template_20230428160814.png?format=png",
+            "theme": "En Garde",
+            "inv": "<:emblem_r:1094387478313570314> En Garde"
+        }
      ]
 }
+
