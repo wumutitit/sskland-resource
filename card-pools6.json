@@ -1,7 +1,8 @@
 {
 "all_themes": [
     {
-    "card1": "AEIC_KR;AEIC_GS;AEIC_WT;AEIC_NN"
+    "card1": "AEIC_KR;AEIC_GS;AEIC_WT;AEIC_NN",
+    "card2": "BPEN_LHT;BPEN_LSH;BPEN_HRT;BPEN_KJH;BPEN_KGV;BPEN_PGW"
           
       
       }
