@@ -2762,7 +2762,7 @@
      "RSDG_DA_C": [
         {
             "name": "<:ac_emblem:1086608258464235540> **ROSÉ Dance** Dead and Gone",
-            "image": "https://mberierd.sirv.com/ssk-resource/cards/rose/dag/Card%20Open%20Template_Restored_20230429223238.png?format=png",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/rose/dag/Card%20Open%20Template_Restored_20230429223350.png?format=png",
             "theme": "Dead and Gone",
             "inv": "<:ac_emblem:1086608258464235540> Dead and Gone"
         }
@@ -2770,7 +2770,7 @@
      "RSDG_DA_B": [
         {
             "name": "<:ab_emblem:1086608394401620110> **ROSÉ Dance** Dead and Gone",
-            "image": "https://mberierd.sirv.com/ssk-resource/cards/rose/dag/Card%20Open%20Template_Restored_20230429222920.png?format=png",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/rose/dag/Card%20Open%20Template_Restored_20230429223013.png?format=png",
             "theme": "Dead and Gone",
             "inv": "<:ab_emblem:1086608394401620110> Dead and Gone"
         }
@@ -2778,7 +2778,7 @@
      "RSDG_DA_A": [
         {
             "name": "<:emblem_a:1094386551212998778> **ROSÉ Dance** Dead and Gone",
-            "image": "https://mberierd.sirv.com/ssk-resource/cards/rose/dag/Card%20Open%20Template_Restored_20230429222448.png?format=png",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/rose/dag/Card%20Open%20Template_Restored_20230429222636.png?format=png",
             "theme": "Dead and Gone",
             "inv": "<:emblem_a:1094386551212998778> Dead and Gone"
         }
@@ -2786,7 +2786,7 @@
      "RSDG_DA_S": [
         {
             "name": "<:emblem_s:1094387291784495134> **ROSÉ Dance** Dead and Gone",
-            "image": "https://mberierd.sirv.com/ssk-resource/cards/rose/dag/Card%20Open%20Template_Restored_20230429222100.png?format=png",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/rose/dag/Card%20Open%20Template_Restored_20230429222232.png?format=png",
             "theme": "Dead and Gone",
             "inv": "<:emblem_s:1094387291784495134> Dead and Gone"
         }
@@ -2794,7 +2794,47 @@
      "RSDG_DA_R": [
         {
             "name": "<:emblem_r:1094387478313570314> **ROSÉ Dance** Dead and Gone",
-            "image": "https://mberierd.sirv.com/ssk-resource/cards/rose/dag/Card%20Open%20Template_Restored_20230429221637.png?format=png",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/rose/dag/Card%20Open%20Template_Restored_20230429221855.png?format=png",
+            "theme": "Dead and Gone",
+            "inv": "<:emblem_r:1094387478313570314> Dead and Gone"
+        }
+     ],
+     "RSDG_RH_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **ROSÉ Rhythm** Dead and Gone",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/rose/dag/Card%20Open%20Template_Restored_20230429223501.png?format=png",
+            "theme": "Dead and Gone",
+            "inv": "<:ac_emblem:1086608258464235540> Dead and Gone"
+        }
+     ],
+     "RSDG_RH_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **ROSÉ Rhythm** Dead and Gone",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/rose/dag/Card%20Open%20Template_Restored_20230429223107.png?format=png",
+            "theme": "Dead and Gone",
+            "inv": "<:ab_emblem:1086608394401620110> Dead and Gone"
+        }
+     ],
+     "RSDG_RH_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **ROSÉ Rhythm** Dead and Gone",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/rose/dag/Card%20Open%20Template_Restored_20230429222729.png?format=png",
+            "theme": "Dead and Gone",
+            "inv": "<:emblem_a:1094386551212998778> Dead and Gone"
+        }
+     ],
+     "RSDG_RH_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **ROSÉ Rhythm** Dead and Gone",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/rose/dag/Card%20Open%20Template_Restored_20230429222400.png?format=png",
+            "theme": "Dead and Gone",
+            "inv": "<:emblem_s:1094387291784495134> Dead and Gone"
+        }
+     ],
+     "RSDG_RH_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **ROSÉ Rhythm** Dead and Gone",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/rose/dag/Card%20Open%20Template_Restored_20230429222000.png?format=png",
             "theme": "Dead and Gone",
             "inv": "<:emblem_r:1094387478313570314> Dead and Gone"
         }
