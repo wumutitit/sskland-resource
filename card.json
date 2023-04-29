@@ -2638,5 +2638,85 @@
             "theme": "Spicy",
             "inv": "<:emblem_r:1094387478313570314> Spicy"
         }
+     ],
+     "AESP_WT_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **aespa Winter** Spicy",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/aespa_spicy/Card%20Open%20Template_Restored_20230429131719.png?format=png",
+            "theme": "Spicy",
+            "inv": "<:ac_emblem:1086608258464235540> Spicy"
+        }
+     ],
+     "AESP_AT_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **aespa Winter** Spicy",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/aespa_spicy/Card%20Open%20Template_Restored_20230429131210.png?format=png",
+            "theme": "Spicy",
+            "inv": "<:ab_emblem:1086608394401620110> Spicy"
+        }
+     ],
+     "AESP_WT_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **aespa Winter** Spicy",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/aespa_spicy/Card%20Open%20Template_Restored_20230429130643.png?format=png",
+            "theme": "Spicy",
+            "inv": "<:emblem_a:1094386551212998778> Spicy"
+        }
+     ],
+     "AESP_WT_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **aespa Winter** Spicy",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/aespa_spicy/Card%20Open%20Template_Restored_20230429130319.png?format=png",
+            "theme": "Spicy",
+            "inv": "<:emblem_s:1094387291784495134> Spicy"
+        }
+     ],
+     "AESP_WT_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **aespa Winter** Spicy",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/aespa_spicy/Card%20Open%20Template_Restored_20230429125700.png?format=png",
+            "theme": "Spicy",
+            "inv": "<:emblem_r:1094387478313570314> Spicy"
+        }
+     ],
+     "AESP_NN_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **aespa Ningning** Spicy",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/aespa_spicy/Card%20Open%20Template_Restored_20230429131803.png?format=png",
+            "theme": "Spicy",
+            "inv": "<:ac_emblem:1086608258464235540> Spicy"
+        }
+     ],
+     "AESP_NN_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **aespa Ningning** Spicy",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/aespa_spicy/Card%20Open%20Template_Restored_20230429131350.png?format=png",
+            "theme": "Spicy",
+            "inv": "<:ab_emblem:1086608394401620110> Spicy"
+        }
+     ],
+     "AESP_NN_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **aespa Ningning** Spicy",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/aespa_spicy/Card%20Open%20Template_Restored_20230429130741.png?format=png",
+            "theme": "Spicy",
+            "inv": "<:emblem_a:1094386551212998778> Spicy"
+        }
+     ],
+     "AESP_NN_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **aespa Ningning** Spicy",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/aespa_spicy/Card%20Open%20Template_Restored_20230429130127.png?format=png",
+            "theme": "Spicy",
+            "inv": "<:emblem_s:1094387291784495134> Spicy"
+        }
+     ],
+     "AESP_NN_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **aespa Ningning** Spicy",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/aespa_spicy/Card%20Open%20Template_Restored_20230429125921.png?format=png",
+            "theme": "Spicy",
+            "inv": "<:emblem_r:1094387478313570314> Spicy"
+        }
      ]
 }
