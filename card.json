@@ -2169,7 +2169,7 @@
      ],
      "AEIC_GS_C": [
         {
-            "name": "<:ac_emblem:1086608258464235540> *aespa Giselle** Iconic",
+            "name": "<:ac_emblem:1086608258464235540> **aespa Giselle** Iconic",
             "image": "https://mberierd.sirv.com/ssk-resource/cards/aespa_iconic/Card%20Open%20Template_20230422204818.png?format=png",
             "theme": "Iconic",
             "inv": "<:ac_emblem:1086608258464235540> Iconic"
@@ -2378,7 +2378,7 @@
      "BPEN_LSH_A": [
         {
             "name": "<:emblem_a:1094386551212998778> **BOYS PLANET Seunghwan** En Garde",
-            "image": "https://mberierd.sirv.com/ssk-resource/cards/boysplanet/eng_bp/Card%20Open%20Template_20230428161956.png?format=png",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/boysplanet/eng_bp/Card%20Open%20Template_20230428162105.png?format=png",
             "theme": "En Garde",
             "inv": "<:emblem_a:1094386551212998778> En Garde"
         }
@@ -2557,6 +2557,86 @@
             "image": "https://mberierd.sirv.com/ssk-resource/cards/boysplanet/eng_bp/Card%20Open%20Template_20230428161246.png?format=png",
             "theme": "En Garde",
             "inv": "<:emblem_r:1094387478313570314> En Garde"
+        }
+     ],
+     "AESP_KR_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **aespa Karina** Spicy",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/aespa_spicy/Card%20Open%20Template_Restored_20230429131438.png?format=png",
+            "theme": "Spicy",
+            "inv": "<:ac_emblem:1086608258464235540> Spicy"
+        }
+     ],
+     "AESP_KR_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **aespa Karina** Spicy",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/aespa_spicy/Card%20Open%20Template_Restored_20230429131007.png?format=png",
+            "theme": "Spicy",
+            "inv": "<:ab_emblem:1086608394401620110> Spicy"
+        }
+     ],
+     "AESP_KR_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **aespa Karina** Spicy",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/aespa_spicy/Card%20Open%20Template_Restored_20230429130417.png?format=png",
+            "theme": "Spicy",
+            "inv": "<:emblem_a:1094386551212998778> Spicy"
+        }
+     ],
+     "AESP_KR_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **aespa Karina** Spicy",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/aespa_spicy/Card%20Open%20Template_Restored_20230429130035.png?format=png",
+            "theme": "Spicy",
+            "inv": "<:emblem_s:1094387291784495134> Spicy"
+        }
+     ],
+     "AESP_KR_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **aespa Karina** Spicy",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/aespa_spicy/Card%20Open%20Template_Restored_20230429125400.png?format=png",
+            "theme": "Spicy",
+            "inv": "<:emblem_r:1094387478313570314> Spicy"
+        }
+     ],
+     "AESP_GS_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **aespa Giselle** Spicy",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/aespa_spicy/Card%20Open%20Template_Restored_20230429131532.png?format=png",
+            "theme": "Spicy",
+            "inv": "<:ac_emblem:1086608258464235540> Spicy"
+        }
+     ],
+     "AESP_GS_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **aespa Giselle** Spicy",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/aespa_spicy/Card%20Open%20Template_Restored_20230429131104.png?format=png",
+            "theme": "Spicy",
+            "inv": "<:ab_emblem:1086608394401620110> Spicy"
+        }
+     ],
+     "AESP_GS_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **aespa Giselle** Spicy",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/aespa_spicy/Card%20Open%20Template_Restored_20230429130521.png?format=png",
+            "theme": "Spicy",
+            "inv": "<:emblem_a:1094386551212998778> Spicy"
+        }
+     ],
+     "AESP_GS_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **aespa Giselle** Spicy",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/aespa_spicy/Card%20Open%20Template_Restored_20230429130224.png?format=png",
+            "theme": "Spicy",
+            "inv": "<:emblem_s:1094387291784495134> Spicy"
+        }
+     ],
+     "AESP_GS_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **aespa Giselle** Spicy",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/aespa_spicy/Card%20Open%20Template_Restored_20230429125548.png?format=png",
+            "theme": "Spicy",
+            "inv": "<:emblem_r:1094387478313570314> Spicy"
         }
      ]
 }
