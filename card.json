@@ -2958,5 +2958,45 @@
             "theme": "Pink Venom",
             "inv": "<:emblem_r:1094387478313570314> Pink Venom"
         }
+     ],
+     "BLPPV_LS_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **BLACKPINK Lisa** Pink Venom",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/blackpink/pv/Card%20Open%20Template_20230425151612.png?format=png",
+            "theme": "Pink Venom",
+            "inv": "<:ac_emblem:1086608258464235540> Pink Venom"
+        }
+     ],
+     "BLPPV_LS_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **BLACKPINK Lisa** Pink Venom",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/blackpink/pv/Card%20Open%20Template_20230425151653.png?format=png",
+            "theme": "Pink Venom",
+            "inv": "<:ab_emblem:1086608394401620110> Pink Venom"
+        }
+     ],
+     "BLPPV_LS_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **BLACKPINK Lisa** Pink Venom",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/blackpink/pv/Card%20Open%20Template_20230425151759.png?format=png",
+            "theme": "Pink Venom",
+            "inv": "<:emblem_a:1094386551212998778> Pink Venom"
+        }
+     ],
+     "BLPPV_LS_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **BLACKPINK Lisa** Pink Venom,
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/blackpink/pv/Card%20Open%20Template_20230425151840.png?format=png",
+            "theme": "Pink Venom",
+            "inv": "<:emblem_s:1094387291784495134> Pink Venom"
+        }
+     ],
+     "BLPPV_LS_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **BLACKPINK Lisa** Pink Venom,
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/blackpink/pv/Card%20Open%20Template_20230425151931.png?format=png",
+            "theme": "Pink Venom",
+            "inv": "<:emblem_r:1094387478313570314> Pink Venom"
+        }
      ]
 }
