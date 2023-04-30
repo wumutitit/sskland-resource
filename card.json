@@ -2998,5 +2998,125 @@
             "theme": "Pink Venom",
             "inv": "<:emblem_r:1094387478313570314> Pink Venom"
         }
+     ],
+     "NJHY_MJ_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **NewJeans Minji** Hype You Boy",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/nwjns_hyn/Card%20Open%20Template_Restored_20230328220114.png?format=png",
+            "theme": "Hype You Boy",
+            "inv": "<:ac_emblem:1086608258464235540> Hype You Boy"
+        }
+     ],
+     "NJHY_MJ_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **NewJeans Minji** Hype You Boy",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/nwjns_hyn/Card%20Open%20Template_Restored_20230328220557.png?format=png",
+            "theme": "Hype You Boy",
+            "inv": "<:ab_emblem:1086608394401620110> Hype You Boy"
+        }
+     ],
+     "NJHY_MJ_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **NewJeans Minji** Hype You Boy",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/nwjns_hyn/Card%20Open%20Template_Restored_20230329045717.png?format=png",
+            "theme": "Hype You Boy",
+            "inv": "<:emblem_a:1094386551212998778> Hype You Boy"
+        }
+     ],
+     "NJHY_MJ_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **NewJeans Minji** Hype You Boy",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/nwjns_hyn/Card%20Open%20Template_Restored_20230329050151.png?format=png",
+            "theme": "Hype You Boy",
+            "inv": "<:emblem_s:1094387291784495134> Hype You Boy"
+        }
+     ],
+     "NJHY_MJ_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **NewJeans Minji** Hype You Boy",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/nwjns_hyn/Card%20Open%20Template_20230318190552.png?format=png",
+            "theme": "Hype You Boy",
+            "inv": "<:emblem_r:1094387478313570314> Hype You Boy"
+        }
+     ],
+     "NJHY_HN_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **NewJeans Hanni** Hype You Boy",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/nwjns_hyn/Card%20Open%20Template_Restored_20230328220210.png?format=png",
+            "theme": "Hype You Boy",
+            "inv": "<:ac_emblem:1086608258464235540> Hype You Boy"
+        }
+     ],
+     "NJHY_HN_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **NewJeans Hanni** Hype You Boy",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/nwjns_hyn/Card%20Open%20Template_Restored_20230328220703.png?format=png",
+            "theme": "Hype You Boy",
+            "inv": "<:ab_emblem:1086608394401620110> Hype You Boy"
+        }
+     ],
+     "NJHY_HN_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **NewJeans Hanni** Hype You Boy",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/nwjns_hyn/Card%20Open%20Template_Restored_20230329045819.png?format=png",
+            "theme": "Hype You Boy",
+            "inv": "<:emblem_a:1094386551212998778> Hype You Boy"
+        }
+     ],
+     "NJHY_HN_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **NewJeans Hanni** Hype You Boy",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/nwjns_hyn/Card%20Open%20Template_Restored_20230329050232.png?format=png",
+            "theme": "Hype You Boy",
+            "inv": "<:emblem_s:1094387291784495134> Hype You Boy"
+        }
+     ],
+     "NJHY_HN_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **NewJeans Hanni** Hype You Boy",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/nwjns_hyn/Card%20Open%20Template_20230318214942.png?format=png",
+            "theme": "Hype You Boy",
+            "inv": "<:emblem_r:1094387478313570314> Hype You Boy"
+        }
+     ],
+     "NJHY_DN_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **NewJeans Danielle** Hype You Boy",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/nwjns_hyn/Card%20Open%20Template_Restored_20230328220331.png?format=png",
+            "theme": "Hype You Boy",
+            "inv": "<:ac_emblem:1086608258464235540> Hype You Boy"
+        }
+     ],
+     "NJHY_DN_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **NewJeans Danielle** Hype You Boy",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/nwjns_hyn/Card%20Open%20Template_Restored_20230328220808.png?format=png",
+            "theme": "Hype You Boy",
+            "inv": "<:ab_emblem:1086608394401620110> Hype You Boy"
+        }
+     ],
+     "NJHY_DN_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **NewJeans Danielle** Hype You Boy",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/nwjns_hyn/Card%20Open%20Template_Restored_20230329045910.png?format=png",
+            "theme": "Hype You Boy",
+            "inv": "<:emblem_a:1094386551212998778> Hype You Boy"
+        }
+     ],
+     "NJHY_DN_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **NewJeans Danielle** Hype You Boy",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/nwjns_hyn/Card%20Open%20Template_Restored_20230329050320.png?format=png",
+            "theme": "Hype You Boy",
+            "inv": "<:emblem_s:1094387291784495134> Hype You Boy"
+        }
+     ],
+     "NJHY_DN_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **NewJeans Danielle** Hype You Boy",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/nwjns_hyn/Card%20Open%20Template_20230318215048.png?format=png",
+            "theme": "Hype You Boy",
+            "inv": "<:emblem_r:1094387478313570314> Hype You Boy"
+        }
      ]
 }
