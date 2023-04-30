@@ -83,7 +83,16 @@
       "ACCH_TEXT": "`Time-Limited` A.C.E **CHAN** Wallpaper",
       
       "ACBK_LIMITED": "https://mberierd.sirv.com/ssk-resource/wallpaper/event/ace/BYEONGKWAN_LM_WP.png?format=png",
-      "ACBK_TEXT": "`Time-Limited` A.C.E **BYEONGKWAN** Wallpaper"
+      "ACBK_TEXT": "`Time-Limited` A.C.E **BYEONGKWAN** Wallpaper",
+      
+      "RSDAG_LIMITED": "https://mberierd.sirv.com/ssk-resource/wallpaper/limited/ros%C3%A9/DAG.png?format=png",
+      "RSDAG_TEXT": "`Limited` ROSÉ **Dead and Gone** Wallpaper",
+      
+      "AESPICY_LIMITED": "https://mberierd.sirv.com/ssk-resource/wallpaper/limited/aespa/SPICY?format=png",
+      "AESPICY_TEXT": "`Limited` aespa **Spicy** Wallpaper",
+      
+      "BLPPINKVENOM_LIMITED": "https://mberierd.sirv.com/ssk-resource/wallpaper/limited/blackpink/PINKVENOM.png?format=png",
+      "BLPPINKVENOM_TEXT": "`Limited` BLACKPINK **Pink Venom** Wallpaper"
       
       
       }
