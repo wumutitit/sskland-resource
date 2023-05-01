@@ -3198,5 +3198,85 @@
             "theme": "Hype You Boy",
             "inv": "<:emblem_r:1094387478313570314> Hype You Boy"
         }
+     ],
+     "ZBWZ_ZH_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **ZB1 Zhanghao** We Are ZB1!",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/zb1/wazb1/Untitled94.2023.05.02-07.43_20230502070110.png?format=png",
+            "theme": "We Are ZB1!",
+            "inv": "<:ac_emblem:1086608258464235540> We Are ZB1!"
+        }
+     ],
+     "ZBWZ_ZH_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **ZB1 Zhanghao** We Are ZB1!",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/zb1/wazb1/Untitled94.2023.05.02-07.43_20230502070120.png?format=png",
+            "theme": "We Are ZB1!",
+            "inv": "<:ab_emblem:1086608394401620110> We Are ZB1!"
+        }
+     ],
+     "ZBWZ_ZH_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **ZB1 Zhanghao** We Are ZB1!",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/zb1/wazb1/Untitled94.2023.05.02-07.43_20230502070137.png?format=png",
+            "theme": "We Are ZB1!",
+            "inv": "<:emblem_a:1094386551212998778> We Are ZB1!"
+        }
+     ],
+     "ZBWZ_ZH_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **ZB1 Zhanghao** We Are ZB1!",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/zb1/wazb1/Untitled94.2023.05.02-07.43_20230502070147.png?format=png",
+            "theme": "We Are ZB1!",
+            "inv": "<:emblem_s:1094387291784495134> We Are ZB1!"
+        }
+     ],
+     "ZBWZ_ZH_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **ZB1 Zhanghao** We Are ZB1!",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/zb1/wazb1/Untitled94.2023.05.02-07.43_20230502070155.png?format=png",
+            "theme": "We Are ZB1!",
+            "inv": "<:emblem_r:1094387478313570314> We Are ZB1!"
+        }
+     ],
+     "ZBWZ_TR_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **ZB1 Taerae** We Are ZB1!",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/zb1/wazb1/Untitled94.2023.05.02-07.43_20230502070004.png?format=png",
+            "theme": "We Are ZB1!",
+            "inv": "<:ac_emblem:1086608258464235540> We Are ZB1!"
+        }
+     ],
+     "ZBWZ_TR_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **ZB1 Taerae** We Are ZB1!",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/zb1/wazb1/Untitled94.2023.05.02-07.43_20230502065953.png?format=png",
+            "theme": "We Are ZB1!",
+            "inv": "<:ab_emblem:1086608394401620110> We Are ZB1!"
+        }
+     ],
+     "ZBWZ_TR_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **ZB1 Taerae** We Are ZB1!",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/zb1/wazb1/Untitled94.2023.05.02-07.43_20230502065943.png?format=png",
+            "theme": "We Are ZB1!",
+            "inv": "<:emblem_a:1094386551212998778> We Are ZB1!"
+        }
+     ],
+     "ZBWZ_TR_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **ZB1 Taerae** We Are ZB1!",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/zb1/wazb1/Untitled94.2023.05.02-07.43_20230502065936.png?format=png",
+            "theme": "We Are ZB1!",
+            "inv": "<:emblem_s:1094387291784495134> We Are ZB1!"
+        }
+     ],
+     "ZBWZ_TR_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **ZB1 Taerae** We Are ZB1!",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/zb1/wazb1/Untitled94.2023.05.02-07.43_20230502065927.png?format=png",
+            "theme": "We Are ZB1!",
+            "inv": "<:emblem_r:1094387478313570314> We Are ZB1!"
+        }
      ]
 }
