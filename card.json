@@ -3318,5 +3318,165 @@
             "theme": "SSKL Special",
             "inv": "<:emblem_r:1094387478313570314> SSKL Special"
         }
+     ],
+     "SKSP_SH_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **SSKL Special Seunghun** I+U=<3",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/ssklsp/i%2Bu%3D%3C3/Untitled94.2023.05.02-07.44_20230502111241.png?format=png",
+            "theme": "SSKL Special",
+            "inv": "<:ac_emblem:1086608258464235540> SSKL Special"
+        }
+     ],
+     "SKSP_SH_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **SSKL Special Seunghun** I+U=<3",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/ssklsp/i%2Bu%3D%3C3/Untitled94.2023.05.02-07.44_20230502111251.png?format=png",
+            "theme": "SSKL Special",
+            "inv": "<:ab_emblem:1086608394401620110> SSKL Special"
+        }
+     ],
+     "SKSP_SH_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **SSKL Special Seunghun** I+U=<3",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/ssklsp/i%2Bu%3D%3C3/Untitled94.2023.05.02-07.44_20230502111256.png?format=png",
+            "theme": "SSKL Special",
+            "inv": "<:emblem_a:1094386551212998778> SSKL Special"
+        }
+     ],
+     "SKSP_SH_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **SSKL Special Seunghun** I+U=<3",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/ssklsp/i%2Bu%3D%3C3/Untitled94.2023.05.02-07.44_20230502111302.png?format=png",
+            "theme": "SSKL Special",
+            "inv": "<:emblem_s:1094387291784495134> SSKL Special"
+        }
+     ],
+     "SKSP_SH_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **SSKL Special Seunghun** I+U=<3",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/ssklsp/i%2Bu%3D%3C3/Untitled94.2023.05.02-07.44_20230502111315.png?format=png",
+            "theme": "SSKL Special",
+            "inv": "<:emblem_r:1094387478313570314> SSKL Special"
+        }
+     ],
+     "SKSP_HR_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **SSKL Special Hiroto** I+U=<3",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/ssklsp/i%2Bu%3D%3C3/Untitled94.2023.05.02-07.44_20230502110707.png?format=png",
+            "theme": "SSKL Special",
+            "inv": "<:ac_emblem:1086608258464235540> SSKL Special"
+        }
+     ],
+     "SKSP_HR_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **SSKL Special Hiroto** I+U=<3",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/ssklsp/i%2Bu%3D%3C3/Untitled94.2023.05.02-07.44_20230502110726.png?format=png",
+            "theme": "SSKL Special",
+            "inv": "<:ab_emblem:1086608394401620110> SSKL Special"
+        }
+     ],
+     "SKSP_HR_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **SSKL Special Hiroto** I+U=<3",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/ssklsp/i%2Bu%3D%3C3/Untitled94.2023.05.02-07.44_20230502110733.png?format=png",
+            "theme": "SSKL Special",
+            "inv": "<:emblem_a:1094386551212998778> SSKL Special"
+        }
+     ],
+     "SKSP_HR_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **SSKL Special Hiroto** I+U=<3",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/ssklsp/i%2Bu%3D%3C3/Untitled94.2023.05.02-07.44_20230502110741.png?format=png",
+            "theme": "SSKL Special",
+            "inv": "<:emblem_s:1094387291784495134> SSKL Special"
+        }
+     ],
+     "SKSP_HR_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **SSKL Special Hiroto** I+U=<3",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/ssklsp/i%2Bu%3D%3C3/Untitled94.2023.05.02-07.44_20230502110753.png?format=png",
+            "theme": "SSKL Special",
+            "inv": "<:emblem_r:1094387478313570314> SSKL Special"
+        }
+     ],
+     "SKSP_EC_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **SSKL Special Eunchae** I+U=<3",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/ssklsp/i%2Bu%3D%3C3/Untitled94.2023.05.02-07.44_20230502110856.png?format=png",
+            "theme": "SSKL Special",
+            "inv": "<:ac_emblem:1086608258464235540> SSKL Special"
+        }
+     ],
+     "SKSP_EC_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **SSKL Special Eunchae** I+U=<3",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/ssklsp/i%2Bu%3D%3C3/Untitled94.2023.05.02-07.44_20230502110906.png?format=png",
+            "theme": "SSKL Special",
+            "inv": "<:ab_emblem:1086608394401620110> SSKL Special"
+        }
+     ],
+     "SKSP_EC_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **SSKL Special Eunchae** I+U=<3",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/ssklsp/i%2Bu%3D%3C3/Untitled94.2023.05.02-07.44_20230502110911.png?format=png",
+            "theme": "SSKL Special",
+            "inv": "<:emblem_a:1094386551212998778> SSKL Special"
+        }
+     ],
+     "SKSP_EC_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **SSKL Special Eunchae** I+U=<3",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/ssklsp/i%2Bu%3D%3C3/Untitled94.2023.05.02-07.44_20230502110935.png?format=png",
+            "theme": "SSKL Special",
+            "inv": "<:emblem_s:1094387291784495134> SSKL Special"
+        }
+     ],
+     "SKSP_EC_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **SSKL Special Eunchae** I+U=<3",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/ssklsp/i%2Bu%3D%3C3/Untitled94.2023.05.02-07.44_20230502110946.png?format=png",
+            "theme": "SSKL Special",
+            "inv": "<:emblem_r:1094387478313570314> SSKL Special"
+        }
+     ],
+     "SKSP_SK_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **SSKL Special Sakura** I+U=<3",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/ssklsp/i%2Bu%3D%3C3/Untitled94.2023.05.02-07.44_20230502111113.png?format=png",
+            "theme": "SSKL Special",
+            "inv": "<:ac_emblem:1086608258464235540> SSKL Special"
+        }
+     ],
+     "SKSP_SK_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **SSKL Special Sakura** I+U=<3",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/ssklsp/i%2Bu%3D%3C3/Untitled94.2023.05.02-07.44_20230502111127.png?format=png",
+            "theme": "SSKL Special",
+            "inv": "<:ab_emblem:1086608394401620110> SSKL Special"
+        }
+     ],
+     "SKSP_SK_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **SSKL Special Sakura** I+U=<3",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/ssklsp/i%2Bu%3D%3C3/Untitled94.2023.05.02-07.44_20230502111143.png?format=png",
+            "theme": "SSKL Special",
+            "inv": "<:emblem_a:1094386551212998778> SSKL Special"
+        }
+     ],
+     "SKSP_SK_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **SSKL Special Sakura** I+U=<3",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/ssklsp/i%2Bu%3D%3C3/Untitled94.2023.05.02-07.44_20230502111207.png?format=png",
+            "theme": "SSKL Special",
+            "inv": "<:emblem_s:1094387291784495134> SSKL Special"
+        }
+     ],
+     "SKSP_SK_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **SSKL Special Sakura** I+U=<3",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/ssklsp/i%2Bu%3D%3C3/Untitled94.2023.05.02-07.44_20230502111216.png?format=png",
+            "theme": "SSKL Special",
+            "inv": "<:emblem_r:1094387478313570314> SSKL Special"
+        }
      ]
 }
