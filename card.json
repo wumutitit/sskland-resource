@@ -3278,5 +3278,45 @@
             "theme": "We Are ZB1!",
             "inv": "<:emblem_r:1094387478313570314> We Are ZB1!"
         }
+     ],
+     "SKSP_JH_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **SSKL Special Junghwan** I+U=<3",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/ssklsp/i%2Bu%3D%3C3/Untitled94.2023.05.02-07.44_20230502111337.png?format=png",
+            "theme": "SSKL Special",
+            "inv": "<:ac_emblem:1086608258464235540> SSKL Special"
+        }
+     ],
+     "SKSP_JH_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **SSKL Special Junghwan** I+U=<3",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/ssklsp/i%2Bu%3D%3C3/Untitled94.2023.05.02-07.44_20230502111345.png?format=png",
+            "theme": "SSKL Special",
+            "inv": "<:ab_emblem:1086608394401620110> SSKL Special"
+        }
+     ],
+     "SKSP_JH_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **SSKL Special Junghwan** I+U=<3",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/ssklsp/i%2Bu%3D%3C3/Untitled94.2023.05.02-07.44_20230502111351.png?format=png",
+            "theme": "SSKL Special",
+            "inv": "<:emblem_a:1094386551212998778> SSKL Special"
+        }
+     ],
+     "SKSP_JH_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **SSKL Special Junghwan** I+U=<3",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/ssklsp/i%2Bu%3D%3C3/Untitled94.2023.05.02-07.44_20230502111358.png?format=png",
+            "theme": "SSKL Special",
+            "inv": "<:emblem_s:1094387291784495134> SSKL Special"
+        }
+     ],
+     "SKSP_JH_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **SSKL Special Junghwan** I+U=<3",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/ssklsp/i%2Bu%3D%3C3/Untitled94.2023.05.02-07.44_20230502111402.png?format=png",
+            "theme": "SSKL Special",
+            "inv": "<:emblem_r:1094387478313570314> SSKL Special"
+        }
      ]
 }
