@@ -3478,5 +3478,206 @@
             "theme": "SSKL Special",
             "inv": "<:emblem_r:1094387478313570314> SSKL Special"
         }
+     ],
+     "ENWB_HS_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **ENHYPEN Heeseung** We Bump It Up",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/enhypen_wbiu/Card%20Open%20Template_20230403063351.png?format=png",
+            "theme": "We Bump It Up",
+            "inv": "<:ac_emblem:1086608258464235540> We Bump It Up"
+        }
+     ],
+     "ENWB_HS_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **ENHYPEN Heeseung** We Bump It Up",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/enhypen_wbiu/Card%20Open%20Template_20230330142702.png?format=png",
+            "theme": "We Bump It Up",
+            "inv": "<:ab_emblem:1086608394401620110> We Bump It Up"
+        }
+     ],
+     "ENWB_HS_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **ENHYPEN Heeseung** We Bump It Up",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/enhypen_wbiu/Card%20Open%20Template_20230320142905.png?format=png",
+            "theme": "We Bump It Up",
+            "inv": "<:emblem_a:1094386551212998778> We Bump It Up"
+        }
+     ],
+     "ENWB_HS_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **ENHYPEN Heeseung** We Bump It Up",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/enhypen_wbiu/Card%20Open%20Template_20230330141450.png?format=png",
+            "theme": "We Bump It Up",
+            "inv": "<:emblem_s:1094387291784495134> We Bump It Up"
+        }
+     ],
+     "ENWB_HS_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **ENHYPEN Heesung** We Bump It Up",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/enhypen_wbiu/Card%20Open%20Template_20230330140349.png?format=png",
+            "theme": "We Bump It Up",
+            "inv": "<:emblem_r:1094387478313570314> We Bump It Up"
+        }
+     ],
+     "ENWB_JY_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **ENHYPEN Jay** We Bump It Up",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/enhypen_wbiu/Card%20Open%20Template_20230403063555.png?format=png",
+            "theme": "We Bump It Up",
+            "inv": "<:ac_emblem:1086608258464235540> We Bump It Up"
+        }
+     ],
+     "ENWB_JY_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **ENHYPEN Jay** We Bump It Up",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/enhypen_wbiu/Card%20Open%20Template_20230330143001.png?format=png",
+            "theme": "We Bump It Up",
+            "inv": "<:ab_emblem:1086608394401620110> We Bump It Up"
+        }
+     ],
+     "ENWB_JY_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **ENHYPEN Jay** We Bump It Up",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/enhypen_wbiu/Card%20Open%20Template_20230319170904.png?format=png",
+            "theme": "We Bump It Up",
+            "inv": "<:emblem_a:1094386551212998778> We Bump It Up"
+        }
+     ],
+     "ENWB_JY_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **ENHYPEN Jay** We Bump It Up",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/enhypen_wbiu/Card%20Open%20Template_20230330141558.png?format=png",
+            "theme": "We Bump It Up",
+            "inv": "<:emblem_s:1094387291784495134> We Bump It Up"
+        }
+     ],
+     "ENWB_JY_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **ENHYPEN Jay** We Bump It Up",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/enhypen_wbiu/Card%20Open%20Template_20230330140558.png?format=png",
+            "theme": "We Bump It Up",
+            "inv": "<:emblem_r:1094387478313570314> We Bump It Up"
+        }
+     ],
+
+     "ENWB_HS_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **ENHYPEN Heeseung** We Bump It Up",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/enhypen_wbiu/Card%20Open%20Template_20230403063351.png?format=png",
+            "theme": "We Bump It Up",
+            "inv": "<:ac_emblem:1086608258464235540> We Bump It Up"
+        }
+     ],
+     "ENWB_HS_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **ENHYPEN Heeseung** We Bump It Up",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/enhypen_wbiu/Card%20Open%20Template_20230330142702.png?format=png",
+            "theme": "We Bump It Up",
+            "inv": "<:ab_emblem:1086608394401620110> We Bump It Up"
+        }
+     ],
+     "ENWB_HS_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **ENHYPEN Heeseung** We Bump It Up",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/enhypen_wbiu/Card%20Open%20Template_20230320142905.png?format=png",
+            "theme": "We Bump It Up",
+            "inv": "<:emblem_a:1094386551212998778> We Bump It Up"
+        }
+     ],
+     "ENWB_HS_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **ENHYPEN Heeseung** We Bump It Up",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/enhypen_wbiu/Card%20Open%20Template_20230330141450.png?format=png",
+            "theme": "We Bump It Up",
+            "inv": "<:emblem_s:1094387291784495134> We Bump It Up"
+        }
+     ],
+     "ENWB_HS_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **ENHYPEN Heesung** We Bump It Up",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/enhypen_wbiu/Card%20Open%20Template_20230330140349.png?format=png",
+            "theme": "We Bump It Up",
+            "inv": "<:emblem_r:1094387478313570314> We Bump It Up"
+        }
+     ],
+     "ENWB_JK_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **ENHYPEN Jake** We Bump It Up",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/enhypen_wbiu/Card%20Open%20Template_20230403063449.png?format=png",
+            "theme": "We Bump It Up",
+            "inv": "<:ac_emblem:1086608258464235540> We Bump It Up"
+        }
+     ],
+     "ENWB_JK_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **ENHYPEN Jake** We Bump It Up",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/enhypen_wbiu/Card%20Open%20Template_20230330142836.png?format=png",
+            "theme": "We Bump It Up",
+            "inv": "<:ab_emblem:1086608394401620110> We Bump It Up"
+        }
+     ],
+     "ENWB_JK_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **ENHYPEN Jake** We Bump It Up",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/enhypen_wbiu/Card%20Open%20Template_Restored_20230320145606.png?format=png",
+            "theme": "We Bump It Up",
+            "inv": "<:emblem_a:1094386551212998778> We Bump It Up"
+        }
+     ],
+     "ENWB_JK_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **ENHYPEN Jake** We Bump It Up",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/enhypen_wbiu/Card%20Open%20Template_20230330141737.png?format=png",
+            "theme": "We Bump It Up",
+            "inv": "<:emblem_s:1094387291784495134> We Bump It Up"
+        }
+     ],
+     "ENWB_JK_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **ENHYPEN Jake** We Bump It Up",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/enhypen_wbiu/Card%20Open%20Template_20230330140734.png?format=png",
+            "theme": "We Bump It Up",
+            "inv": "<:emblem_r:1094387478313570314> We Bump It Up"
+        }
+     ],
+     "ENWB_SH_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **ENHYPEN Sunghoon** We Bump It Up",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/enhypen_wbiu/Card%20Open%20Template_20230403063904.png?format=png",
+            "theme": "We Bump It Up",
+            "inv": "<:ac_emblem:1086608258464235540> We Bump It Up"
+        }
+     ],
+     "ENWB_SH_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **ENHYPEN Sunghoon** We Bump It Up",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/enhypen_wbiu/Card%20Open%20Template_20230330143802.png?format=png",
+            "theme": "We Bump It Up",
+            "inv": "<:ab_emblem:1086608394401620110> We Bump It Up"
+        }
+     ],
+     "ENWB_SH_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **ENHYPEN Sunghoon** We Bump It Up",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/enhypen_wbiu/Card%20Open%20Template_20230319170126.png?format=png",
+            "theme": "We Bump It Up",
+            "inv": "<:emblem_a:1094386551212998778> We Bump It Up"
+        }
+     ],
+     "ENWB_SH_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **ENHYPEN Sunghoon** We Bump It Up",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/enhypen_wbiu/Card%20Open%20Template_20230330142220.png?format=png",
+            "theme": "We Bump It Up",
+            "inv": "<:emblem_s:1094387291784495134> We Bump It Up"
+        }
+     ],
+     "ENWB_SH_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **ENHYPEN Sunghoon** We Bump It Up",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/enhypen_wbiu/Card%20Open%20Template_20230330140902.png?format=png",
+            "theme": "We Bump It Up",
+            "inv": "<:emblem_r:1094387478313570314> We Bump It Up"
+        }
      ]
 }
