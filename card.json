@@ -3961,7 +3961,7 @@
      ],
      "TRIL_JH_C": [
         {
-            "name": "<:ac_emblem:1086608258464235540> **TREASURE Junkyu** I'm Like Hello",
+            "name": "<:ac_emblem:1086608258464235540> **TREASURE Jaehyuk** I'm Like Hello",
             "image": "https://mberierd.sirv.com/ssk-resource/cards/treasure/ilj/TRIL_AGM_AG_20230504140726.png?format=png",
             "theme": "I'm Like Hello",
             "inv": "<:ac_emblem:1086608258464235540> I'm Like Hello"
@@ -3969,7 +3969,7 @@
      ],
      "TRIL_JH_B": [
         {
-            "name": "<:ab_emblem:1086608394401620110> **TREASURE Junkyu** I'm Like Hello",
+            "name": "<:ab_emblem:1086608394401620110> **TREASURE Jaehyuk** I'm Like Hello",
             "image": "https://mberierd.sirv.com/ssk-resource/cards/treasure/ilj/TRIL_AGM_AG_20230504140734.png?format=png",
             "theme": "I'm Like Hello",
             "inv": "<:ab_emblem:1086608394401620110> I'm Like Hello"
@@ -3977,7 +3977,7 @@
      ],
      "TRIL_JH_A": [
         {
-            "name": "<:emblem_a:1094386551212998778> **TREASURE Junkyu** I'm Like Hello",
+            "name": "<:emblem_a:1094386551212998778> **TREASURE Jaehyuk** I'm Like Hello",
             "image": "https://mberierd.sirv.com/ssk-resource/cards/treasure/ilj/TRIL_AGM_AG_20230504140740.png?format=png",
             "theme": "I'm Like Hello",
             "inv": "<:emblem_a:1094386551212998778> I'm Like Hello"
@@ -3985,7 +3985,7 @@
      ],
      "TRIL_JH_S": [
         {
-            "name": "<:emblem_s:1094387291784495134> **TREASURE Junkyu** I'm Like Hello",
+            "name": "<:emblem_s:1094387291784495134> **TREASURE Jaehyuk** I'm Like Hello",
             "image": "https://mberierd.sirv.com/ssk-resource/cards/treasure/ilj/TRIL_AGM_AG_20230504140746.png?format=png",
             "theme": "I'm Like Hello",
             "inv": "<:emblem_s:1094387291784495134> I'm Like Hello"
@@ -3993,8 +3993,88 @@
      ],
      "TRIL_JH_R": [
         {
-            "name": "<:emblem_r:1094387478313570314> **TREASURE Junkyu** I'm Like Hello",
+            "name": "<:emblem_r:1094387478313570314> **TREASURE Jaehyuk** I'm Like Hello",
             "image": "https://mberierd.sirv.com/ssk-resource/cards/treasure/ilj/TRIL_AGM_AG_20230504140753.png?format=png",
+            "theme": "I'm Like Hello",
+            "inv": "<:emblem_r:1094387478313570314> I'm Like Hello"
+        }
+     ],
+     "TRIL_AS_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **TREASURE Asahi** I'm Like Hello",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/treasure/ilj/TRIL_AGM_AG_20230504140956.png?format=png",
+            "theme": "I'm Like Hello",
+            "inv": "<:ac_emblem:1086608258464235540> I'm Like Hello"
+        }
+     ],
+     "TRIL_AS_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **TREASURE Asahi** I'm Like Hello",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/treasure/ilj/TRIL_AGM_AG_20230504141003.png?format=png",
+            "theme": "I'm Like Hello",
+            "inv": "<:ab_emblem:1086608394401620110> I'm Like Hello"
+        }
+     ],
+     "TRIL_AS_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **TREASURE Asahi** I'm Like Hello",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/treasure/ilj/TRIL_AGM_AG_20230504141009.png?format=png",
+            "theme": "I'm Like Hello",
+            "inv": "<:emblem_a:1094386551212998778> I'm Like Hello"
+        }
+     ],
+     "TRIL_AS_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **TREASURE Asahi** I'm Like Hello",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/treasure/ilj/TRIL_AGM_AG_20230504141016.png?format=png",
+            "theme": "I'm Like Hello",
+            "inv": "<:emblem_s:1094387291784495134> I'm Like Hello"
+        }
+     ],
+     "TRIL_AS_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **TREASURE Asahi** I'm Like Hello",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/treasure/ilj/TRIL_AGM_AG_20230504141024.png?format=png",
+            "theme": "I'm Like Hello",
+            "inv": "<:emblem_r:1094387478313570314> I'm Like Hello"
+        }
+     ],
+     "TRIL_DY_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **TREASURE Asahi** I'm Like Hello",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/treasure/ilj/TRIL_AGM_AG_20230504140956.png?format=png",
+            "theme": "I'm Like Hello",
+            "inv": "<:ac_emblem:1086608258464235540> I'm Like Hello"
+        }
+     ],
+     "TRIL_DY_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **TREASURE Asahi** I'm Like Hello",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/treasure/ilj/TRIL_AGM_AG_20230504141003.png?format=png",
+            "theme": "I'm Like Hello",
+            "inv": "<:ab_emblem:1086608394401620110> I'm Like Hello"
+        }
+     ],
+     "TRIL_DY_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **TREASURE Asahi** I'm Like Hello",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/treasure/ilj/TRIL_AGM_AG_20230504141009.png?format=png",
+            "theme": "I'm Like Hello",
+            "inv": "<:emblem_a:1094386551212998778> I'm Like Hello"
+        }
+     ],
+     "TRIL_DY_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **TREASURE Asahi** I'm Like Hello",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/treasure/ilj/TRIL_AGM_AG_20230504141016.png?format=png",
+            "theme": "I'm Like Hello",
+            "inv": "<:emblem_s:1094387291784495134> I'm Like Hello"
+        }
+     ],
+     "TRIL_DY_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **TREASURE Asahi** I'm Like Hello",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/treasure/ilj/TRIL_AGM_AG_20230504141024.png?format=png",
             "theme": "I'm Like Hello",
             "inv": "<:emblem_r:1094387478313570314> I'm Like Hello"
         }
