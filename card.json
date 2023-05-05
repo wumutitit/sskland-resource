@@ -4198,5 +4198,125 @@
             "theme": "I'm Like Hello",
             "inv": "<:emblem_r:1094387478313570314> I'm Like Hello"
         }
+     ],
+     "DJKI_DY_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **DOJAEJUNG Doyoung** Kiss",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/djj_perfume/djj_kiss/Untitled96.2023.05.05-05.18_20230505111838.png?format=png",
+            "theme": "Kiss",
+            "inv": "<:ac_emblem:1086608258464235540> Kiss"
+        }
+     ],
+     "DJKI_DY_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **DOJAEJUNG Doyoung** Kiss",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/djj_perfume/djj_kiss/Untitled96.2023.05.05-05.18_20230505111843.png?format=png",
+            "theme": "Kiss",
+            "inv": "<:ab_emblem:1086608394401620110> Kiss"
+        }
+     ],
+     "DJKI_DY_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **DOJAEJUNG Doyoung** Kiss",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/djj_perfume/djj_kiss/Untitled96.2023.05.05-05.18_20230505111853.png?format=png",
+            "theme": "Kiss",
+            "inv": "<:emblem_a:1094386551212998778> Kiss"
+        }
+     ],
+     "DJKI_DY_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **DOJAEJUNG Doyoung** Kiss",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/djj_perfume/djj_kiss/Untitled96.2023.05.05-05.18_20230505111909.png?format=png",
+            "theme": "Kiss",
+            "inv": "<:emblem_s:1094387291784495134> Kiss"
+        }
+     ],
+     "DJKI_DY_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **DOJAEJUNG Doyoung** Kiss",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/djj_perfume/djj_kiss/Untitled96.2023.05.05-05.18_20230505111919.png?format=png",
+            "theme": "Kiss",
+            "inv": "<:emblem_r:1094387478313570314> Kiss"
+        }
+     ],
+     "DJKI_JH_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **DOJAEJUNG Jaehyun** Kiss",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/djj_perfume/djj_kiss/Untitled96.2023.05.05-05.18_20230505111647.png?format=png",
+            "theme": "Kiss",
+            "inv": "<:ac_emblem:1086608258464235540> Kiss"
+        }
+     ],
+     "DJKI_JH_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **DOJAEJUNG Jaehyun** Kiss",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/djj_perfume/djj_kiss/Untitled96.2023.05.05-05.18_20230505111700.png?format=png",
+            "theme": "Kiss",
+            "inv": "<:ab_emblem:1086608394401620110> Kiss"
+        }
+     ],
+     "DJKI_JH_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **DOJAEJUNG Jaehyun** Kiss",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/djj_perfume/djj_kiss/Untitled96.2023.05.05-05.18_20230505111708.png?format=png",
+            "theme": "Kiss",
+            "inv": "<:emblem_a:1094386551212998778> Kiss"
+        }
+     ],
+     "DJKI_JH_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **DOJAEJUNG Jaehyun** Kiss",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/djj_perfume/djj_kiss/Untitled96.2023.05.05-05.18_20230505111719.png?format=png",
+            "theme": "Kiss",
+            "inv": "<:emblem_s:1094387291784495134> Kiss"
+        }
+     ],
+     "DJKI_JH_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **DOJAEJUNG Jaehyun** Kiss",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/djj_perfume/djj_kiss/Untitled96.2023.05.05-05.18_20230505111733.png?format=png",
+            "theme": "Kiss",
+            "inv": "<:emblem_r:1094387478313570314> Kiss"
+        }
+     ],
+     "DJKI_JW_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **DOJAEJUNG Jungwoo** Kiss",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/djj_perfume/djj_kiss/Untitled96.2023.05.05-05.18_20230505111433.png?format=png",
+            "theme": "Kiss",
+            "inv": "<:ac_emblem:1086608258464235540> Kiss"
+        }
+     ],
+     "DJKI_JW_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **DOJAEJUNG Jungwoo** Kiss",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/djj_perfume/djj_kiss/Untitled96.2023.05.05-05.18_20230505111439.png?format=png",
+            "theme": "Kiss",
+            "inv": "<:ab_emblem:1086608394401620110> Kiss"
+        }
+     ],
+     "DJKI_JW_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **DOJAEJUNG Jungwoo** Kiss",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/djj_perfume/djj_kiss/Untitled96.2023.05.05-05.18_20230505111454.png?format=png",
+            "theme": "Kiss",
+            "inv": "<:emblem_a:1094386551212998778> Kiss"
+        }
+     ],
+     "DJKI_JW_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **DOJAEJUNG Jungwoo** Kiss",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/djj_perfume/djj_kiss/Untitled96.2023.05.05-05.18_20230505111500.png?format=png",
+            "theme": "Kiss",
+            "inv": "<:emblem_s:1094387291784495134> Kiss"
+        }
+     ],
+     "DJKI_JW_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **DOJAEJUNG Jungwoo** Kiss",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/djj_perfume/djj_kiss/Untitled96.2023.05.05-05.18_20230505111512.png?format=png",
+            "theme": "Kiss",
+            "inv": "<:emblem_r:1094387478313570314> Kiss"
+        }
      ]
 }
