@@ -4318,5 +4318,205 @@
             "theme": "Kiss",
             "inv": "<:emblem_r:1094387478313570314> Kiss"
         }
+     ],
+     "RVBA_IR_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **Red Velvet Irene** Bamboleo",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/red%20velvet/Untitled287_20230423123714.png?format=png",
+            "theme": "Bamboleo",
+            "inv": "<:ac_emblem:1086608258464235540> Bamboleo"
+        }
+     ],
+     "RVBA_IR_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **Red Velvet Irene** Bamboleo",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/red%20velvet/Untitled287_20230423123720.png?format=png",
+            "theme": "Bamboleo",
+            "inv": "<:ab_emblem:1086608394401620110> Bamboleo"
+        }
+     ],
+     "RVBA_IR_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **Red Velvet Irene** Bamboleo",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/red%20velvet/Untitled287_20230423123728.png?format=png",
+            "theme": "Bamboleo",
+            "inv": "<:emblem_a:1094386551212998778> Bamboleo"
+        }
+     ],
+     "RVBA_IR_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **Red Velvet Irene** Bamboleo",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/red%20velvet/Untitled287_20230423123732.png?format=png",
+            "theme": "Bamboleo",
+            "inv": "<:emblem_s:1094387291784495134> Bamboleo"
+        }
+     ],
+     "RVBA_IR_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **Red Velvet Irene** Bamboleo",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/red%20velvet/Untitled287_20230423123737.png?format=png",
+            "theme": "Bamboleo",
+            "inv": "<:emblem_r:1094387478313570314> Bamboleo"
+        }
+     ],
+     "RVBA_SG_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **Red Velvet Seulgi** Bamboleo",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/red%20velvet/Untitled287_20230423123714.png?format=png",
+            "theme": "Bamboleo",
+            "inv": "<:ac_emblem:1086608258464235540> Bamboleo"
+        }
+     ],
+     "RVBA_SG_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **Red Velvet Seulgi** Bamboleo",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/red%20velvet/Untitled287_20230423123919.png?format=png",
+            "theme": "Bamboleo",
+            "inv": "<:ab_emblem:1086608394401620110> Bamboleo"
+        }
+     ],
+     "RVBA_SG_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **Red Velvet Seulgi** Bamboleo",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/red%20velvet/Untitled287_20230423123922.png?format=png",
+            "theme": "Bamboleo",
+            "inv": "<:emblem_a:1094386551212998778> Bamboleo"
+        }
+     ],
+     "RVBA_SG_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **Red Velvet Seulgi** Bamboleo",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/red%20velvet/Untitled287_20230423123927.png?format=png",
+            "theme": "Bamboleo",
+            "inv": "<:emblem_s:1094387291784495134> Bamboleo"
+        }
+     ],
+     "RVBA_SG_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **Red Velvet Seulgi** Bamboleo",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/red%20velvet/Untitled287_20230423123931.png?format=png",
+            "theme": "Bamboleo",
+            "inv": "<:emblem_r:1094387478313570314> Bamboleo"
+        }
+     ],
+     "RVBA_WD_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **Red Velvet Wendy** Bamboleo",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/red%20velvet/Untitled287_20230423123714.png?format=png",
+            "theme": "Bamboleo",
+            "inv": "<:ac_emblem:1086608258464235540> Bamboleo"
+        }
+     ],
+     "RVBA_WD_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **Red Velvet Wendy** Bamboleo",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/red%20velvet/Untitled287_20230423123853.png?format=png",
+            "theme": "Bamboleo",
+            "inv": "<:ab_emblem:1086608394401620110> Bamboleo"
+        }
+     ],
+     "RVBA_WD_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **Red Velvet Wendy** Bamboleo",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/red%20velvet/Untitled287_20230423123857.png?format=png",
+            "theme": "Bamboleo",
+            "inv": "<:emblem_a:1094386551212998778> Bamboleo"
+        }
+     ],
+     "RVBA_WD_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **Red Velvet Wendy** Bamboleo",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/red%20velvet/Untitled287_20230423123902.png?format=png",
+            "theme": "Bamboleo",
+            "inv": "<:emblem_s:1094387291784495134> Bamboleo"
+        }
+     ],
+     "RVBA_WD_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **Red Velvet Wendy** Bamboleo",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/red%20velvet/Untitled287_20230423123906.png?format=png",
+            "theme": "Bamboleo",
+            "inv": "<:emblem_r:1094387478313570314> Bamboleo"
+        }
+     ],
+     "RVBA_JY_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **Red Velvet Joy** Bamboleo",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/red%20velvet/Untitled287_20230423123820.png?format=png",
+            "theme": "Bamboleo",
+            "inv": "<:ac_emblem:1086608258464235540> Bamboleo"
+        }
+     ],
+     "RVBA_JY_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **Red Velvet Joy** Bamboleo",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/red%20velvet/Untitled287_20230423123826.png?format=png",
+            "theme": "Bamboleo",
+            "inv": "<:ab_emblem:1086608394401620110> Bamboleo"
+        }
+     ],
+     "RVBA_JY_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **Red Velvet Joy** Bamboleo",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/red%20velvet/Untitled287_20230423123830.png?format=png",
+            "theme": "Bamboleo",
+            "inv": "<:emblem_a:1094386551212998778> Bamboleo"
+        }
+     ],
+     "RVBA_JY_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **Red Velvet Joy** Bamboleo",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/red%20velvet/Untitled287_20230423123834.png?format=png",
+            "theme": "Bamboleo",
+            "inv": "<:emblem_s:1094387291784495134> Bamboleo"
+        }
+     ],
+     "RVBA_JY_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **Red Velvet Joy** Bamboleo",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/red%20velvet/Untitled287_20230423123838.png?format=png",
+            "theme": "Bamboleo",
+            "inv": "<:emblem_r:1094387478313570314> Bamboleo"
+        }
+     ],
+     "RVBA_YR_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **Red Velvet Yeri** Bamboleo",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/red%20velvet/Untitled287_20230423123751.png?format=png",
+            "theme": "Bamboleo",
+            "inv": "<:ac_emblem:1086608258464235540> Bamboleo"
+        }
+     ],
+     "RVBA_YR_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **Red Velvet Yeri** Bamboleo",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/red%20velvet/Untitled287_20230423123756.png?format=png",
+            "theme": "Bamboleo",
+            "inv": "<:ab_emblem:1086608394401620110> Bamboleo"
+        }
+     ],
+     "RVBA_YR_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **Red Velvet Yeri** Bamboleo",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/red%20velvet/Untitled287_20230423123830.png?format=png",
+            "theme": "Bamboleo",
+            "inv": "<:emblem_a:1094386551212998778> Bamboleo"
+        }
+     ],
+     "RVBA_YR_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **Red Velvet Yeri** Bamboleo",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/red%20velvet/Untitled287_20230423123806.png?format=png",
+            "theme": "Bamboleo",
+            "inv": "<:emblem_s:1094387291784495134> Bamboleo"
+        }
+     ],
+     "RVBA_YR_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **Red Velvet Yeri** Bamboleo",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/red%20velvet/Untitled287_20230423123810.png?format=png",
+            "theme": "Bamboleo",
+            "inv": "<:emblem_r:1094387478313570314> Bamboleo"
+        }
      ]
 }
