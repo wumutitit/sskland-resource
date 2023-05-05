@@ -4518,5 +4518,125 @@
             "theme": "Bamboleo",
             "inv": "<:emblem_r:1094387478313570314> Bamboleo"
         }
+     ],
+     "GFMG_SW_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **GFRIEND Seowon** Mago",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/gfriend/Untitled302_20230422180810.png?format=png",
+            "theme": "Mago",
+            "inv": "<:ac_emblem:1086608258464235540> Mago"
+        }
+     ],
+     "GFMG_SW_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **GFRIEND Seowon** Mago",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/gfriend/Untitled302_20230422180805.png?format=png",
+            "theme": "Mago",
+            "inv": "<:ab_emblem:1086608394401620110> Mago"
+        }
+     ],
+     "GFMG_SW_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **GFRIEND Seowon** Mago",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/gfriend/Untitled302_20230422180801.png?format=png",
+            "theme": "Mago",
+            "inv": "<:emblem_a:1094386551212998778> Mago"
+        }
+     ],
+     "GFMG_SW_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **GFRIEND Seowon** Mago",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/gfriend/Untitled302_20230422180749.png?format=png",
+            "theme": "Mago",
+            "inv": "<:emblem_s:1094387291784495134> Mago"
+        }
+     ],
+     "GFMG_SW_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **GFRIEND Seowon** Mago",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/gfriend/Untitled302_20230422180743.png?format=png",
+            "theme": "Mago",
+            "inv": "<:emblem_r:1094387478313570314> Mago"
+        }
+     ],
+     "GFMG_YR_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **GFRIEND Yerin** Mago",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/gfriend/Untitled302_20230422180832.png?format=png",
+            "theme": "Mago",
+            "inv": "<:ac_emblem:1086608258464235540> Mago"
+        }
+     ],
+     "GFMG_YR_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **GFRIEND Yerin** Mago",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/gfriend/Untitled302_20230422180828.png?format=png",
+            "theme": "Mago",
+            "inv": "<:ab_emblem:1086608394401620110> Mago"
+        }
+     ],
+     "GFMG_YR_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **GFRIEND Yerin** Mago",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/gfriend/Untitled302_20230422180824.png?format=png",
+            "theme": "Mago",
+            "inv": "<:emblem_a:1094386551212998778> Mago"
+        }
+     ],
+     "GFMG_YR_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **GFRIEND Yerin** Mago",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/gfriend/Untitled302_20230422180821.png?format=png",
+            "theme": "Mago",
+            "inv": "<:emblem_s:1094387291784495134> Mago"
+        }
+     ],
+     "GFMG_YR_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **GFRIEND Yerin** Mago",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/gfriend/Untitled302_20230422180817.png?format=png",
+            "theme": "Mago",
+            "inv": "<:emblem_r:1094387478313570314> Mago"
+        }
+     ],
+     "GFMG_YJ_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **GFRIEND Yuju** Mago",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/gfriend/Untitled302_20230422180920.png?format=png",
+            "theme": "Mago",
+            "inv": "<:ac_emblem:1086608258464235540> Mago"
+        }
+     ],
+     "GFMG_YJ_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **GFRIEND Yuju** Mago",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/gfriend/Untitled302_20230422180915.png?format=png",
+            "theme": "Mago",
+            "inv": "<:ab_emblem:1086608394401620110> Mago"
+        }
+     ],
+     "GFMG_YJ_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **GFRIEND Yuju** Mago",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/gfriend/Untitled302_20230422180911.png?format=png",
+            "theme": "Mago",
+            "inv": "<:emblem_a:1094386551212998778> Mago"
+        }
+     ],
+     "GFMG_YJ_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **GFRIEND Yuju** Mago",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/gfriend/Untitled302_20230422180906.png?format=png",
+            "theme": "Mago",
+            "inv": "<:emblem_s:1094387291784495134> Mago"
+        }
+     ],
+     "GFMG_YJ_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **GFRIEND Yuju** Mago",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/gfriend/Untitled302_20230422180902.png?format=png",
+            "theme": "Mago",
+            "inv": "<:emblem_r:1094387478313570314> Mago"
+        }
      ]
 }
