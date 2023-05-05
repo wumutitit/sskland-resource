@@ -4758,5 +4758,245 @@
             "theme": "Mago",
             "inv": "<:emblem_r:1094387478313570314> Mago"
         }
+     ],
+     "IVLI_YJ_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **IVE Yujin** My Lips Don't Lie",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/ive_omw/lips/yjc.png?format=png",
+            "theme": "My Lips Don't Lie",
+            "inv": "<:ac_emblem:1086608258464235540> My Lips Don't Lie"
+        }
+     ],
+     "IVLI_YJ_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **IVE Yujin** My Lips Don't Lie",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/ive_omw/lips/yjb.png?format=png",
+            "theme": "My Lips Don't Lie",
+            "inv": "<:ab_emblem:1086608394401620110> My Lips Don't Lie"
+        }
+     ],
+     "IVLI_YJ_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **IVE Yujin** My Lips Don't Lie",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/ive_omw/lips/yja.png?format=png",
+            "theme": "My Lips Don't Lie",
+            "inv": "<:emblem_a:1094386551212998778> My Lips Don't Lie"
+        }
+     ],
+     "IVLI_YJ_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **IVE Yujin** My Lips Don't Lie",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/ive_omw/lips/yjs.png?format=png",
+            "theme": "My Lips Don't Lie",
+            "inv": "<:emblem_s:1094387291784495134> My Lips Don't Lie"
+        }
+     ],
+     "IVLI_YJ_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **IVE Yujin** My Lips Don't Lie",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/ive_omw/lips/yj.png?format=png",
+            "theme": "My Lips Don't Lie",
+            "inv": "<:emblem_r:1094387478313570314> My Lips Don't Lie"
+        }
+     ],
+     "IVLI_GA_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **IVE Gaeul** My Lips Don't Lie",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/ive_omw/lips/gac.png?format=png",
+            "theme": "My Lips Don't Lie",
+            "inv": "<:ac_emblem:1086608258464235540> My Lips Don't Lie"
+        }
+     ],
+     "IVLI_GA_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **IVE Gaeul** My Lips Don't Lie",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/ive_omw/lips/gab.png?format=png",
+            "theme": "My Lips Don't Lie",
+            "inv": "<:ab_emblem:1086608394401620110> My Lips Don't Lie"
+        }
+     ],
+     "IVLI_GA_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **IVE Gaeul** My Lips Don't Lie",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/ive_omw/lips/gaa.png?format=png",
+            "theme": "My Lips Don't Lie",
+            "inv": "<:emblem_a:1094386551212998778> My Lips Don't Lie"
+        }
+     ],
+     "IVLI_GA_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **IVE Gaeul** My Lips Don't Lie",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/ive_omw/lips/gas.png?format=png",
+            "theme": "My Lips Don't Lie",
+            "inv": "<:emblem_s:1094387291784495134> My Lips Don't Lie"
+        }
+     ],
+     "IVLI_GA_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **IVE Gaeul** My Lips Don't Lie",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/ive_omw/lips/ga.png?format=png",
+            "theme": "My Lips Don't Lie",
+            "inv": "<:emblem_r:1094387478313570314> My Lips Don't Lie"
+        }
+     ],
+     "IVLI_RE_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **IVE Rei** My Lips Don't Lie",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/ive_omw/lips/reic.png?format=png",
+            "theme": "My Lips Don't Lie",
+            "inv": "<:ac_emblem:1086608258464235540> My Lips Don't Lie"
+        }
+     ],
+     "IVLI_RE_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **IVE Rei** My Lips Don't Lie",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/ive_omw/lips/reib.png?format=png",
+            "theme": "My Lips Don't Lie",
+            "inv": "<:ab_emblem:1086608394401620110> My Lips Don't Lie"
+        }
+     ],
+     "IVLI_RE_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **IVE Rei** My Lips Don't Lie",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/ive_omw/lips/reia.png?format=png",
+            "theme": "My Lips Don't Lie",
+            "inv": "<:emblem_a:1094386551212998778> My Lips Don't Lie"
+        }
+     ],
+     "IVLI_RE_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **IVE Rei** My Lips Don't Lie",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/ive_omw/lips/reis.png?format=png",
+            "theme": "My Lips Don't Lie",
+            "inv": "<:emblem_s:1094387291784495134> My Lips Don't Lie"
+        }
+     ],
+     "IVLI_RE_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **IVE Rei** My Lips Don't Lie",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/ive_omw/lips/rei.png?format=png",
+            "theme": "My Lips Don't Lie",
+            "inv": "<:emblem_r:1094387478313570314> My Lips Don't Lie"
+        }
+     ],
+     "IVLI_WY_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **IVE Wonyoung** My Lips Don't Lie",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/ive_omw/lips/wyc.png?format=png",
+            "theme": "My Lips Don't Lie",
+            "inv": "<:ac_emblem:1086608258464235540> My Lips Don't Lie"
+        }
+     ],
+     "IVLI_WY_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **IVE Wonyoung** My Lips Don't Lie",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/ive_omw/lips/wyb.png?format=png",
+            "theme": "My Lips Don't Lie",
+            "inv": "<:ab_emblem:1086608394401620110> My Lips Don't Lie"
+        }
+     ],
+     "IVLI_WY_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **IVE Wonyoung** My Lips Don't Lie",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/ive_omw/lips/wya.png?format=png",
+            "theme": "My Lips Don't Lie",
+            "inv": "<:emblem_a:1094386551212998778> My Lips Don't Lie"
+        }
+     ],
+     "IVLI_WY_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **IVE Wonyoung** My Lips Don't Lie",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/ive_omw/lips/wys.png?format=png",
+            "theme": "My Lips Don't Lie",
+            "inv": "<:emblem_s:1094387291784495134> My Lips Don't Lie"
+        }
+     ],
+     "IVLI_WY_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **IVE Wonyoung** My Lips Don't Lie",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/ive_omw/lips/wy.png?format=png",
+            "theme": "My Lips Don't Lie",
+            "inv": "<:emblem_r:1094387478313570314> My Lips Don't Lie"
+        }
+     ],
+     "IVLI_LI_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **IVE Liz** My Lips Don't Lie",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/ive_omw/lips/lizc.png?format=png",
+            "theme": "My Lips Don't Lie",
+            "inv": "<:ac_emblem:1086608258464235540> My Lips Don't Lie"
+        }
+     ],
+     "IVLI_LI_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **IVE Liz** My Lips Don't Lie",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/ive_omw/lips/lizb.png?format=png",
+            "theme": "My Lips Don't Lie",
+            "inv": "<:ab_emblem:1086608394401620110> My Lips Don't Lie"
+        }
+     ],
+     "IVLI_LI_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **IVE Liz** My Lips Don't Lie",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/ive_omw/lips/liza.png?format=png",
+            "theme": "My Lips Don't Lie",
+            "inv": "<:emblem_a:1094386551212998778> My Lips Don't Lie"
+        }
+     ],
+     "IVLI_LI_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **IVE Liz** My Lips Don't Lie",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/ive_omw/lips/lizs.png?format=png",
+            "theme": "My Lips Don't Lie",
+            "inv": "<:emblem_s:1094387291784495134> My Lips Don't Lie"
+        }
+     ],
+     "IVLI_LI_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **IVE Liz** My Lips Don't Lie",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/ive_omw/lips/liz.png?format=png",
+            "theme": "My Lips Don't Lie",
+            "inv": "<:emblem_r:1094387478313570314> My Lips Don't Lie"
+        }
+     ],
+     "IVLI_LS_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **IVE Leeseo** My Lips Don't Lie",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/ive_omw/lips/lsc.png?format=png",
+            "theme": "My Lips Don't Lie",
+            "inv": "<:ac_emblem:1086608258464235540> My Lips Don't Lie"
+        }
+     ],
+     "IVLI_LS_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **IVE Leeseo** My Lips Don't Lie",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/ive_omw/lips/lsb.png?format=png",
+            "theme": "My Lips Don't Lie",
+            "inv": "<:ab_emblem:1086608394401620110> My Lips Don't Lie"
+        }
+     ],
+     "IVLI_LS_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **IVE Leeseo** My Lips Don't Lie",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/ive_omw/lips/lsa.png?format=png",
+            "theme": "My Lips Don't Lie",
+            "inv": "<:emblem_a:1094386551212998778> My Lips Don't Lie"
+        }
+     ],
+     "IVLI_LS_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **IVE Leeseo** My Lips Don't Lie",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/ive_omw/lips/lss.png?format=png",
+            "theme": "My Lips Don't Lie",
+            "inv": "<:emblem_s:1094387291784495134> My Lips Don't Lie"
+        }
+     ],
+     "IVLI_LS_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **IVE Leeseo** My Lips Don't Lie",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/ive_omw/lips/ls.png?format=png",
+            "theme": "My Lips Don't Lie",
+            "inv": "<:emblem_r:1094387478313570314> My Lips Don't Lie"
+        }
      ]
 }
