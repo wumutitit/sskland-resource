@@ -4998,5 +4998,165 @@
             "theme": "My Lips Don't Lie",
             "inv": "<:emblem_r:1094387478313570314> My Lips Don't Lie"
         }
+     ],
+     "AEMW_KR_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **aespa Karina** Welcome to my world",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/aewtmw/WCTMW_AE_20230507144624.png?format=png",
+            "theme": "Welcome to my world",
+            "inv": "<:ac_emblem:1086608258464235540> Welcome to my world"
+        }
+     ],
+     "AEMW_KR_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **aespa Karina** Welcome to my world",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/aewtmw/WCTMW_AE_20230507144634.png?format=png",
+            "theme": "Welcome to my world",
+            "inv": "<:ab_emblem:1086608394401620110> Welcome to my world"
+        }
+     ],
+     "AEMW_KR_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **aespa Karina** Welcome to my world",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/aewtmw/WCTMW_AE_20230507144639.png?format=png",
+            "theme": "Welcome to my world",
+            "inv": "<:emblem_a:1094386551212998778> Welcome to my world"
+        }
+     ],
+     "AEMW_KR_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **aespa Karina** Welcome to my world",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/aewtmw/WCTMW_AE_20230507144653.png?format=png",
+            "theme": "Welcome to my world",
+            "inv": "<:emblem_s:1094387291784495134> Welcome to my world"
+        }
+     ],
+     "AEMW_KR_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **aespa Karina** Welcome to my world",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/aewtmw/WCTMW_AE_20230507144703.png?format=png",
+            "theme": "Welcome to my world",
+            "inv": "<:emblem_r:1094387478313570314> Welcome to my world"
+        }
+     ],
+     "AEMW_GS_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **aespa Giselle** Welcome to my world",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/aewtmw/WCTMW_AE_20230507144827.png?format=png",
+            "theme": "Welcome to my world",
+            "inv": "<:ac_emblem:1086608258464235540> Welcome to my world"
+        }
+     ],
+     "AEMW_GS_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **aespa Giselle** Welcome to my world",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/aewtmw/WCTMW_AE_20230507144832.png?format=png",
+            "theme": "Welcome to my world",
+            "inv": "<:ab_emblem:1086608394401620110> Welcome to my world"
+        }
+     ],
+     "AEMW_GS_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **aespa Giselle** Welcome to my world",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/aewtmw/WCTMW_AE_20230507144843.png?format=png",
+            "theme": "Welcome to my world",
+            "inv": "<:emblem_a:1094386551212998778> Welcome to my world"
+        }
+     ],
+     "AEMW_GS_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **aespa Giselle** Welcome to my world",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/aewtmw/WCTMW_AE_20230507144850.png?format=png",
+            "theme": "Welcome to my world",
+            "inv": "<:emblem_s:1094387291784495134> Welcome to my world"
+        }
+     ],
+     "AEMW_GS_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **aespa Giselle** Welcome to my world",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/aewtmw/WCTMW_AE_20230507144902.png?format=png",
+            "theme": "Welcome to my world",
+            "inv": "<:emblem_r:1094387478313570314> Welcome to my world"
+        }
+     ],
+     "AEMW_WT_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **aespa Winter** Welcome to my world",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/aewtmw/WCTMW_AE_20230507145001.png?format=png",
+            "theme": "Welcome to my world",
+            "inv": "<:ac_emblem:1086608258464235540> Welcome to my world"
+        }
+     ],
+     "AEMW_WT_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **aespa Winter** Welcome to my world",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/aewtmw/WCTMW_AE_20230507145006.png?format=png",
+            "theme": "Welcome to my world",
+            "inv": "<:ab_emblem:1086608394401620110> Welcome to my world"
+        }
+     ],
+     "AEMW_WT_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **aespa Winter** Welcome to my world",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/aewtmw/WCTMW_AE_20230507145014.png?format=png",
+            "theme": "Welcome to my world",
+            "inv": "<:emblem_a:1094386551212998778> Welcome to my world"
+        }
+     ],
+     "AEMW_WT_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **aespa Winter** Welcome to my world",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/aewtmw/WCTMW_AE_20230507145026.png?format=png",
+            "theme": "Welcome to my world",
+            "inv": "<:emblem_s:1094387291784495134> Welcome to my world"
+        }
+     ],
+     "AEMW_WT_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **aespa Winter** Welcome to my world",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/aewtmw/WCTMW_AE_20230507145041.png?format=png",
+            "theme": "Welcome to my world",
+            "inv": "<:emblem_r:1094387478313570314> Welcome to my world"
+        }
+     ],
+     "AEMW_NN_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **aespa Ningning** Welcome to my world",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/aewtmw/WCTMW_AE_20230507145151.png?format=png",
+            "theme": "Welcome to my world",
+            "inv": "<:ac_emblem:1086608258464235540> Welcome to my world"
+        }
+     ],
+     "AEMW_NN_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **aespa Ningning** Welcome to my world",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/aewtmw/WCTMW_AE_20230507145156.png?format=png",
+            "theme": "Welcome to my world",
+            "inv": "<:ab_emblem:1086608394401620110> Welcome to my world"
+        }
+     ],
+     "AEMW_NN_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **aespa Ningning** Welcome to my world",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/aewtmw/WCTMW_AE_20230507145204.png?format=png",
+            "theme": "Welcome to my world",
+            "inv": "<:emblem_a:1094386551212998778> Welcome to my world"
+        }
+     ],
+     "AEMW_NN_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **aespa Ningning** Welcome to my world",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/aewtmw/WCTMW_AE_20230507145209.png?format=png",
+            "theme": "Welcome to my world",
+            "inv": "<:emblem_s:1094387291784495134> Welcome to my world"
+        }
+     ],
+     "AEMW_NN_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **aespa Ningning** Welcome to my world",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/aewtmw/WCTMW_AE_20230507145219.png?format=png",
+            "theme": "Welcome to my world",
+            "inv": "<:emblem_r:1094387478313570314> Welcome to my world"
+        }
      ]
 }
