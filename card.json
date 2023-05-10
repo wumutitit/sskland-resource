@@ -5158,5 +5158,165 @@
             "theme": "Welcome to my world",
             "inv": "<:emblem_r:1094387478313570314> Welcome to my world"
         }
+     ],
+     "ZBZB_JW_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **ZEROBASEONE Jiwoong** _ZEROBASEONE",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/zb1/_zb1/sscix_normals_20230504205512.png?format=png",
+            "theme": "_ZEROBASEONE",
+            "inv": "<:ac_emblem:1086608258464235540> _ZEROBASEONE"
+        }
+     ],
+     "ZBZB_JW_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **ZEROBASEONE Jiwoong** _ZEROBASEONE",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/zb1/_zb1/sscix_normals_20230504205506.png?format=png",
+            "theme": "_ZEROBASEONE",
+            "inv": "<:ab_emblem:1086608394401620110> _ZEROBASEONE"
+        }
+     ],
+     "ZBZB_JW_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **ZEROBASEONE Jiwoong** _ZEROBASEONE",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/zb1/_zb1/sscix_normals_20230504205500.png?format=png",
+            "theme": "_ZEROBASEONE",
+            "inv": "<:emblem_a:1094386551212998778> _ZEROBASEONE"
+        }
+     ],
+     "ZBZB_JW_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **ZEROBASEONE Jiwoong** _ZEROBASEONE",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/zb1/_zb1/sscix_normals_20230504205454.png?format=png",
+            "theme": "_ZEROBASEONE",
+            "inv": "<:emblem_s:1094387291784495134> _ZEROBASEONE"
+        }
+     ],
+     "ZBZB_JW_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **ZEROBASEONE Jiwoong** _ZEROBASEONE",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/zb1/_zb1/sscix_normals_20230504205447.png?format=png",
+            "theme": "_ZEROBASEONE",
+            "inv": "<:emblem_r:1094387478313570314> _ZEROBASEONE"
+        }
+     ],
+     "ZBZB_ZH_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **ZEROBASEONE Zhanghao** _ZEROBASEONE",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/zb1/_zb1/sscix_normals_20230504205703.png?format=png",
+            "theme": "_ZEROBASEONE",
+            "inv": "<:ac_emblem:1086608258464235540> _ZEROBASEONE"
+        }
+     ],
+     "ZBZB_ZH_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **ZEROBASEONE Zhanghao** _ZEROBASEONE",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/zb1/_zb1/sscix_normals_20230504205656.png?format=png",
+            "theme": "_ZEROBASEONE",
+            "inv": "<:ab_emblem:1086608394401620110> _ZEROBASEONE"
+        }
+     ],
+     "ZBZB_ZH_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **ZEROBASEONE Zhanghao** _ZEROBASEONE",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/zb1/_zb1/sscix_normals_20230504205649.png?format=png",
+            "theme": "_ZEROBASEONE",
+            "inv": "<:emblem_a:1094386551212998778> _ZEROBASEONE"
+        }
+     ],
+     "ZBZB_ZH_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **ZEROBASEONE Zhanghao** _ZEROBASEONE",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/zb1/_zb1/sscix_normals_20230504205643.png?format=png",
+            "theme": "_ZEROBASEONE",
+            "inv": "<:emblem_s:1094387291784495134> _ZEROBASEONE"
+        }
+     ],
+     "ZBZB_ZH_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **ZEROBASEONE Zhanghao** _ZEROBASEONE",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/zb1/_zb1/sscix_normals_20230504205627.png?format=png",
+            "theme": "_ZEROBASEONE",
+            "inv": "<:emblem_r:1094387478313570314> _ZEROBASEONE"
+        }
+     ],
+     "ZBZB_HB_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **ZEROBASEONE Hanbin** _ZEROBASEONE",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/zb1/_zb1/sscix_normals_20230504205956.png?format=png",
+            "theme": "_ZEROBASEONE",
+            "inv": "<:ac_emblem:1086608258464235540> _ZEROBASEONE"
+        }
+     ],
+     "ZBZB_HB_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **ZEROBASEONE Hanbin** _ZEROBASEONE",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/zb1/_zb1/sscix_normals_20230504205951.png?format=png",
+            "theme": "_ZEROBASEONE",
+            "inv": "<:ab_emblem:1086608394401620110> _ZEROBASEONE"
+        }
+     ],
+     "ZBZB_HB_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **ZEROBASEONE Hanbin** _ZEROBASEONE",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/zb1/_zb1/sscix_normals_20230504205946.png?format=png",
+            "theme": "_ZEROBASEONE",
+            "inv": "<:emblem_a:1094386551212998778> _ZEROBASEONE"
+        }
+     ],
+     "ZBZB_HB_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **ZEROBASEONE Hanbin** _ZEROBASEONE",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/zb1/_zb1/sscix_normals_20230504205940.png?format=png",
+            "theme": "_ZEROBASEONE",
+            "inv": "<:emblem_s:1094387291784495134> _ZEROBASEONE"
+        }
+     ],
+     "ZBZB_HB_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **ZEROBASEONE Hanbin** _ZEROBASEONE",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/zb1/_zb1/sscix_normals_20230504205932.png?format=png",
+            "theme": "_ZEROBASEONE",
+            "inv": "<:emblem_r:1094387478313570314> _ZEROBASEONE"
+        }
+     ],
+     "ZBZB_MT_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **ZEROBASEONE Matthew** _ZEROBASEONE",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/zb1/_zb1/sscix_normals_20230504210404.png?format=png",
+            "theme": "_ZEROBASEONE",
+            "inv": "<:ac_emblem:1086608258464235540> _ZEROBASEONE"
+        }
+     ],
+     "ZBZB_MT_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **ZEROBASEONE Matthew** _ZEROBASEONE",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/zb1/_zb1/sscix_normals_20230504210258.png?format=png",
+            "theme": "_ZEROBASEONE",
+            "inv": "<:ab_emblem:1086608394401620110> _ZEROBASEONE"
+        }
+     ],
+     "ZBZB_MT_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **ZEROBASEONE Matthew** _ZEROBASEONE",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/zb1/_zb1/sscix_normals_20230504210244.png?format=png",
+            "theme": "_ZEROBASEONE",
+            "inv": "<:emblem_a:1094386551212998778> _ZEROBASEONE"
+        }
+     ],
+     "ZBZB_MT_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **ZEROBASEONE Matthew** _ZEROBASEONE",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/zb1/_zb1/sscix_normals_20230504210239.png?format=png",
+            "theme": "_ZEROBASEONE",
+            "inv": "<:emblem_s:1094387291784495134> _ZEROBASEONE"
+        }
+     ],
+     "ZBZB_MT_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **ZEROBASEONE Matthew** _ZEROBASEONE",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/zb1/_zb1/sscix_normals_20230504210153.png?format=png",
+            "theme": "_ZEROBASEONE",
+            "inv": "<:emblem_r:1094387478313570314> _ZEROBASEONE"
+        }
      ]
 }
