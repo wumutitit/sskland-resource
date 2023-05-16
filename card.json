@@ -5678,5 +5678,125 @@
             "theme": "Typa Girl",
             "inv": "<:emblem_r:1094387478313570314> Typa Girl"
         }
+     ],
+     "MMGF_KL_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **MIX & MATCH Kim Lip** Front Girl",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/loona/mm/Untitled1014_20230507092620.png?format=png",
+            "theme": "Front Girl",
+            "inv": "<:ac_emblem:1086608258464235540> Front Girl"
+        }
+     ],
+     "MMGF_KL_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **MIX & MATCH Kim Lip** Front Girl",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/loona/mm/Untitled1011_20230507092604.png?format=png",
+            "theme": "Front Girl",
+            "inv": "<:ab_emblem:1086608394401620110> Front Girl"
+        }
+     ],
+     "MMGF_KL_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **MIX & MATCH Kim Lip** Front Girl",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/loona/mm/Untitled1008_20230507092547.png?format=png",
+            "theme": "Front Girl",
+            "inv": "<:emblem_a:1094386551212998778> Front Girl"
+        }
+     ],
+     "MMGF_KL_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **MIX & MATCH Kim Lip** Front Girl",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/loona/mm/Untitled1005_20230507092532.png?format=png",
+            "theme": "Front Girl",
+            "inv": "<:emblem_s:1094387291784495134> Front Girl"
+        }
+     ],
+     "MMGF_KL_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **MIX & MATCH Kim Lip** Front Girl",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/loona/mm/Untitled995_20230506170501.png?format=png",
+            "theme": "Front Girl",
+            "inv": "<:emblem_r:1094387478313570314> Front Girl"
+        }
+     ],
+     "MMGF_JS_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **MIX & MATCH Jinsoul** Front Girl",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/loona/mm/Untitled1015_20230507092626.png?format=png",
+            "theme": "Front Girl",
+            "inv": "<:ac_emblem:1086608258464235540> Front Girl"
+        }
+     ],
+     "MMGF_JS_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **MIX & MATCH Jinsoul** Front Girl",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/loona/mm/Untitled1012_20230507092609.png?format=png",
+            "theme": "Front Girl",
+            "inv": "<:ab_emblem:1086608394401620110> Front Girl"
+        }
+     ],
+     "MMGF_JS_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **MIX & MATCH Jinsoul** Front Girl",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/loona/mm/Untitled1009_20230507092552.png?format=png",
+            "theme": "Front Girl",
+            "inv": "<:emblem_a:1094386551212998778> Front Girl"
+        }
+     ],
+     "MMGF_JS_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **MIX & MATCH Jinsoul** Front Girl",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/loona/mm/Untitled1006_20230507092537.png?format=png",
+            "theme": "Front Girl",
+            "inv": "<:emblem_s:1094387291784495134> Front Girl"
+        }
+     ],
+     "MMGF_JS_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **MIX & MATCH Jinsoul** Front Girl",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/loona/mm/Untitled996_20230506170418.png?format=png",
+            "theme": "Front Girl",
+            "inv": "<:emblem_r:1094387478313570314> Front Girl"
+        }
+     ],
+     "MMGF_CR_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **MIX & MATCH Choerry** Front Girl",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/loona/mm/Untitled1013_20230507092632.png?format=png",
+            "theme": "Front Girl",
+            "inv": "<:ac_emblem:1086608258464235540> Front Girl"
+        }
+     ],
+     "MMGF_CR_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **MIX & MATCH Choerry** Front Girl",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/loona/mm/Untitled1010_20230507092614.png?format=png",
+            "theme": "Front Girl",
+            "inv": "<:ab_emblem:1086608394401620110> Front Girl"
+        }
+     ],
+     "MMGF_CR_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **MIX & MATCH Choerry** Front Girl",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/loona/mm/Untitled1007_20230507092557.png?format=png",
+            "theme": "Front Girl",
+            "inv": "<:emblem_a:1094386551212998778> Front Girl"
+        }
+     ],
+     "MMGF_CR_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **MIX & MATCH Choerry** Front Girl",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/loona/mm/Untitled1004_20230507092541.png?format=png",
+            "theme": "Front Girl",
+            "inv": "<:emblem_s:1094387291784495134> Front Girl"
+        }
+     ],
+     "MMGF_CR_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **MIX & MATCH Choerry** Front Girl",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/loona/mm/Untitled994_20230506170423.png?format=png",
+            "theme": "Front Girl",
+            "inv": "<:emblem_r:1094387478313570314> Front Girl"
+        }
      ]
 }
