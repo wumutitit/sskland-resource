@@ -5798,5 +5798,205 @@
             "theme": "Girl Front",
             "inv": "<:emblem_r:1094387478313570314> Girl Front"
         }
+     ],
+     "CIIM_BX_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **CIX BX** Imagine",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/cix/inagine/Untitled193_20230430193119.png?format=png",
+            "theme": "Imagine",
+            "inv": "<:ac_emblem:1086608258464235540> Imagine"
+        }
+     ],
+     "CIIM_BX_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **CIX BX** Imagine",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/cix/inagine/Untitled193_20230430193113.png?format=png",
+            "theme": "Imagine",
+            "inv": "<:ab_emblem:1086608394401620110> Imagine"
+        }
+     ],
+     "CIIM_BX_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **CIX BX** Imagine",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/cix/inagine/Untitled193_20230430193108.png?format=png",
+            "theme": "Imagine",
+            "inv": "<:emblem_a:1094386551212998778> Imagine"
+        }
+     ],
+     "CIIM_BX_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **CIX BX** Imagine",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/cix/inagine/Untitled193_20230430193101.png?format=png",
+            "theme": "Imagine",
+            "inv": "<:emblem_s:1094387291784495134> Imagine"
+        }
+     ],
+     "CIIM_BX_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **CIX BX** Imagine",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/cix/inagine/Untitled193_20230430193018.png?format=png",
+            "theme": "Imagine",
+            "inv": "<:emblem_r:1094387478313570314> Imagine"
+        }
+     ],
+     "CIIM_SH_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **CIX Seunghun** Imagine",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/cix/inagine/Untitled193_20230430194055.png?format=png",
+            "theme": "Imagine",
+            "inv": "<:ac_emblem:1086608258464235540> Imagine"
+        }
+     ],
+     "CIIM_SH_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **CIX Seunghun** Imagine",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/cix/inagine/Untitled193_20230430193918.png?format=png",
+            "theme": "Imagine",
+            "inv": "<:ab_emblem:1086608394401620110> Imagine"
+        }
+     ],
+     "CIIM_SH_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **CIX Seunghun** Imagine",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/cix/inagine/Untitled193_20230430193915.png?format=png",
+            "theme": "Imagine",
+            "inv": "<:emblem_a:1094386551212998778> Imagine"
+        }
+     ],
+     "CIIM_SH_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **CIX Seunghun** Imagine",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/cix/inagine/Untitled193_20230430193911.png?format=png",
+            "theme": "Imagine",
+            "inv": "<:emblem_s:1094387291784495134> Imagine"
+        }
+     ],
+     "CIIM_SH_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **CIX Seunghun** Imagine",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/cix/inagine/Untitled193_20230430193902.png?format=png",
+            "theme": "Imagine",
+            "inv": "<:emblem_r:1094387478313570314> Imagine"
+        }
+     ],
+     "CIIM_YH_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **CIX Yonghee** Imagine",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/cix/inagine/Untitled193_20230430195058.png?format=png",
+            "theme": "Imagine",
+            "inv": "<:ac_emblem:1086608258464235540> Imagine"
+        }
+     ],
+     "CIIM_YH_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **CIX Yonghee** Imagine",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/cix/inagine/Untitled193_20230430195054.png?format=png",
+            "theme": "Imagine",
+            "inv": "<:ab_emblem:1086608394401620110> Imagine"
+        }
+     ],
+     "CIIM_YH_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **CIX Yonghee** Imagine",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/cix/inagine/Untitled193_20230430195049.png?format=png",
+            "theme": "Imagine",
+            "inv": "<:emblem_a:1094386551212998778> Imagine"
+        }
+     ],
+     "CIIM_YH_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **CIX Yonghee** Imagine",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/cix/inagine/Untitled193_20230430195042.png?format=png",
+            "theme": "Imagine",
+            "inv": "<:emblem_s:1094387291784495134> Imagine"
+        }
+     ],
+     "CIIM_YH_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **CIX Yonghee** Imagine",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/cix/inagine/Untitled193_20230430195037.png?format=png",
+            "theme": "Imagine",
+            "inv": "<:emblem_r:1094387478313570314> Imagine"
+        }
+     ],
+     "CIIM_JY_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **CIX Jinyoung** Imagine",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/cix/inagine/Untitled193_20230430195827.png?format=png",
+            "theme": "Imagine",
+            "inv": "<:ac_emblem:1086608258464235540> Imagine"
+        }
+     ],
+     "CIIM_JY_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **CIX Jinyoung** Imagine",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/cix/inagine/Untitled193_20230430195821.png?format=png",
+            "theme": "Imagine",
+            "inv": "<:ab_emblem:1086608394401620110> Imagine"
+        }
+     ],
+     "CIIM_JY_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **CIX Jinyoung** Imagine",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/cix/inagine/Untitled193_20230430195701.png?format=png",
+            "theme": "Imagine",
+            "inv": "<:emblem_a:1094386551212998778> Imagine"
+        }
+     ],
+     "CIIM_JY_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **CIX Jinyoung** Imagine",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/cix/inagine/Untitled193_20230430195653.png?format=png",
+            "theme": "Imagine",
+            "inv": "<:emblem_s:1094387291784495134> Imagine"
+        }
+     ],
+     "CIIM_JY_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **CIX Jinyoung** Imagine",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/cix/inagine/Untitled193_20230430195645.png?format=png",
+            "theme": "Imagine",
+            "inv": "<:emblem_r:1094387478313570314> Imagine"
+        }
+     ],
+     "CIIM_HS_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **CIX Hyunsuk** Imagine",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/cix/inagine/Untitled193_20230430200502.png?format=png",
+            "theme": "Imagine",
+            "inv": "<:ac_emblem:1086608258464235540> Imagine"
+        }
+     ],
+     "CIIM_HS_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **CIX Hyunsuk** Imagine",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/cix/inagine/Untitled193_20230430200457.png?format=png",
+            "theme": "Imagine",
+            "inv": "<:ab_emblem:1086608394401620110> Imagine"
+        }
+     ],
+     "CIIM_HS_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **CIX Hyunsuk** Imagine",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/cix/inagine/Untitled193_20230430200451.png?format=png",
+            "theme": "Imagine",
+            "inv": "<:emblem_a:1094386551212998778> Imagine"
+        }
+     ],
+     "CIIM_HS_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **CIX Hyunsuk** Imagine",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/cix/inagine/Untitled193_20230430200446.png?format=png",
+            "theme": "Imagine",
+            "inv": "<:emblem_s:1094387291784495134> Imagine"
+        }
+     ],
+     "CIIM_HS_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **CIX Hyunsuk** Imagine",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/cix/inagine/Untitled193_20230430200440.png?format=png",
+            "theme": "Imagine",
+            "inv": "<:emblem_r:1094387478313570314> Imagine"
+        }
      ]
 }
