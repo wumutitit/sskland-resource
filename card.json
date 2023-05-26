@@ -5998,5 +5998,165 @@
             "theme": "Imagine",
             "inv": "<:emblem_r:1094387478313570314> Imagine"
         }
+     ],
+     "ENDB_HS_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **ENHYPEN Heeseung** Dark Blood",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/enhypen_wbiu/db/Untitled316_20230504203637.png?format=png",
+            "theme": "Dark Blood",
+            "inv": "<:ac_emblem:1086608258464235540> Dark Blood"
+        }
+     ],
+     "ENDB_HS_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **ENHYPEN Heeseung** Dark Blood",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/enhypen_wbiu/db/Untitled316_20230504203645.png?format=png",
+            "theme": "Dark Blood",
+            "inv": "<:ab_emblem:1086608394401620110> Dark Blood"
+        }
+     ],
+     "ENDB_HS_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **ENHYPEN Heeseung** Dark Blood",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/enhypen_wbiu/db/Untitled316_20230504203648.png?format=png",
+            "theme": "Dark Blood",
+            "inv": "<:emblem_a:1094386551212998778> Dark Blood"
+        }
+     ],
+     "ENDB_HS_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **ENHYPEN Heeseung** Dark Blood",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/enhypen_wbiu/db/Untitled316_20230504203651.png?format=png",
+            "theme": "Dark Blood",
+            "inv": "<:emblem_s:1094387291784495134> Dark Blood"
+        }
+     ],
+     "ENDB_HS_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **ENHYPEN Heeseung** Dark Blood",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/enhypen_wbiu/db/Untitled316_20230504203656.png?format=png",
+            "theme": "Dark Blood",
+            "inv": "<:emblem_r:1094387478313570314> Dark Blood"
+        }
+     ],
+     "ENDB_JY_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **ENHYPEN Jay** Dark Blood",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/enhypen_wbiu/db/Untitled316_20230504203808.png?format=png",
+            "theme": "Dark Blood",
+            "inv": "<:ac_emblem:1086608258464235540> Dark Blood"
+        }
+     ],
+     "ENDB_JY_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **ENHYPEN Jay** Dark Blood",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/enhypen_wbiu/db/Untitled316_20230504203814.png?format=png",
+            "theme": "Dark Blood",
+            "inv": "<:ab_emblem:1086608394401620110> Dark Blood"
+        }
+     ],
+     "ENDB_JY_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **ENHYPEN Jay** Dark Blood",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/enhypen_wbiu/db/Untitled316_20230504203821.png?format=png",
+            "theme": "Dark Blood",
+            "inv": "<:emblem_a:1094386551212998778> Dark Blood"
+        }
+     ],
+     "ENDB_JY_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **ENHYPEN Jay** Dark Blood",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/enhypen_wbiu/db/Untitled316_20230504203824.png?format=png",
+            "theme": "Dark Blood",
+            "inv": "<:emblem_s:1094387291784495134> Dark Blood"
+        }
+     ],
+     "ENDB_JY_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **ENHYPEN Jay** Dark Blood",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/enhypen_wbiu/db/Untitled316_20230504203827.png?format=png",
+            "theme": "Dark Blood",
+            "inv": "<:emblem_r:1094387478313570314> Dark Blood"
+        }
+     ],
+     "ENDB_JK_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **ENHYPEN Jake** Dark Blood",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/enhypen_wbiu/db/Untitled316_20230504203843.png?format=png",
+            "theme": "Dark Blood",
+            "inv": "<:ac_emblem:1086608258464235540> Dark Blood"
+        }
+     ],
+     "ENDB_JK_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **ENHYPEN Jake** Dark Blood",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/enhypen_wbiu/db/Untitled316_20230504203846.png?format=png",
+            "theme": "Dark Blood",
+            "inv": "<:ab_emblem:1086608394401620110> Dark Blood"
+        }
+     ],
+     "ENDB_JK_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **ENHYPEN Jake** Dark Blood",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/enhypen_wbiu/db/Untitled316_20230504203849.png?format=png",
+            "theme": "Dark Blood",
+            "inv": "<:emblem_a:1094386551212998778> Dark Blood"
+        }
+     ],
+     "ENDB_JK_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **ENHYPEN Jake** Dark Blood",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/enhypen_wbiu/db/Untitled316_20230504203852.png?format=png",
+            "theme": "Dark Blood",
+            "inv": "<:emblem_s:1094387291784495134> Dark Blood"
+        }
+     ],
+     "ENDB_JK_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **ENHYPEN Jake** Dark Blood",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/enhypen_wbiu/db/Untitled316_20230504203856.png?format=png",
+            "theme": "Dark Blood",
+            "inv": "<:emblem_r:1094387478313570314> Dark Blood"
+        }
+     ],
+     "ENDB_SH_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **ENHYPEN Sunghoon** Dark Blood",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/enhypen_wbiu/db/Untitled316_20230504203908.png?format=png",
+            "theme": "Dark Blood",
+            "inv": "<:ac_emblem:1086608258464235540> Dark Blood"
+        }
+     ],
+     "ENDB_SH_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **ENHYPEN Sunghoon** Dark Blood",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/enhypen_wbiu/db/Untitled316_20230504203914.png?format=png",
+            "theme": "Dark Blood",
+            "inv": "<:ab_emblem:1086608394401620110> Dark Blood"
+        }
+     ],
+     "ENDB_SH_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **ENHYPEN Sunghoon** Dark Blood",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/enhypen_wbiu/db/Untitled316_20230504203917.png?format=png",
+            "theme": "Dark Blood",
+            "inv": "<:emblem_a:1094386551212998778> Dark Blood"
+        }
+     ],
+     "ENDB_SH_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **ENHYPEN Sunghoon** Dark Blood",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/enhypen_wbiu/db/Untitled316_20230504203921.png?format=png",
+            "theme": "Dark Blood",
+            "inv": "<:emblem_s:1094387291784495134> Dark Blood"
+        }
+     ],
+     "ENDB_SH_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **ENHYPEN Sunghoon** Dark Blood",
+            "image": "https://mberierd.sirv.com/ssk-resource/cards/enhypen_wbiu/db/Untitled316_20230504203926.png?format=png",
+            "theme": "Dark Blood",
+            "inv": "<:emblem_r:1094387478313570314> Dark Blood"
+        }
      ]
 }
